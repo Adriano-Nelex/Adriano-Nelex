@@ -1,4 +1,4 @@
-# Olá eu sou o Adriano Fernandes, Desenvolvedor Front-end Wordpress!
+# Olá eu sou o Adriano Fernandes, Desenvolvedor Front-end!
 <div align="center">
   <a href="https://github.com/Adriano-Nelex">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adriano-Nelex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
