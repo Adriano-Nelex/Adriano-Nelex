@@ -8,7 +8,7 @@ Com 5 anos de carreira desenvolvida na área de Web, com experiência na criaç�
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-Nelex&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Stacks
+## Skills
   
 <div style="">
   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
