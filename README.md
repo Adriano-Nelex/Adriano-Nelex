@@ -25,6 +25,17 @@ Com 5 anos de carreira desenvolvida na área de Web, com experiência na criaç�
   . 🌱 Estou me aprofundando atualmente em PHP e Javascript. </br>
   . 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento. </br>
   . 😄 Me interessando por sistemas web.
+  
+## Alguns projetos que já trabalhei:
+ ➻ FK Partners: https://fkpartners.com </br>
+ ➻ Paz e Dinheiro: https://pazedinheiro.com.br/ </br>
+ ➻ Evans Advogados: https://evansadvogados.com.br </br>
+ ➻ Apsen Farmacêutica: https://www.apsen.com.br/digeliv </br>
+ ➻ Apsen Farmacêutica: https://www.apsen.com.br/fibromialgia </br>
+ ➻ Supermercado IB Bragion: https://www.bragion.com.br </br>
+ ➻ Ideal Recursos Humanos: https://rhideal.com.br </br>
+ ➻ Comercial Casa do Açougueiro: https://comercialcasadoacougueiro.com </br>
+ ➻ Restaurante Taberna: https://restaurantetaberna.com </br>
 
 ## Alguns Links
   
