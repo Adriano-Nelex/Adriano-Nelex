@@ -2,11 +2,7 @@
 
 Com 5 anos de carreira desenvolvida na área de Web, com experiência na criação e manutenção de paginas web além de configurações e atualizações em servidores de hospedagem web e e-mail marketing. Com foco no cumprimento de critérios e prazos estabelecidos de acordo com o projeto. Capaz de desenvolver sites com foco em Wordpress utilizando as melhores técnicas e ferramentas para uma melhor interação do usuário e do administrador. Busco me atualizar e ficar por dentro das novas tecnologias do mercado para atender possíveis demandas e necessidades.
 
-<div align="center">
-  <a href="https://github.com/Adriano-Nelex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adriano-Nelex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-Nelex&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
 
 ## Skills
   
