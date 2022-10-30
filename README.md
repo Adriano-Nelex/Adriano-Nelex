@@ -13,7 +13,7 @@ Com 5 anos de carreira desenvolvida na área de Web, com experiência na criaç�
   
 <div style="">  
   <img align="center" alt="Adriano-Wordpress" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" />
-  <img align="center" alt="Adriano-Woocommerce" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original-wordmark.svg" />
+  <img align="center" alt="Adriano-Woocommerce" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original-wordmark.svg" />
   <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Adriano-PHP" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
