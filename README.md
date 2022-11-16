@@ -25,10 +25,10 @@ Com 5 anos de carreira desenvolvida na área de Web, com experiência na criaç�
 </div>
   
 ## Detalhes
-  . 🔭 Atualmente trabalho na Fasters. </br>
-  . 🌱 Estou me aprofundando atualmente em PHP e Javascript. </br>
-  . 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento. </br>
-  . 😄 Fazendo um curso de Fullstack PHP.
+  ➻ 🔭 Atualmente trabalho na Fasters. </br>
+  ➻ 🌱 Estou me aprofundando atualmente em PHP e Javascript. </br>
+  ➻ 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento. </br>
+  ➻ 😄 Fazendo um curso de Fullstack Javascript.
   
 ## Alguns projetos/Portfolio:
  ➻ FK Partners: https://fkpartners.com </br>
@@ -40,7 +40,14 @@ Com 5 anos de carreira desenvolvida na área de Web, com experiência na criaç�
  ➻ Ideal Recursos Humanos: https://rhideal.com.br </br>
  ➻ Comercial Casa do Açougueiro: https://comercialcasadoacougueiro.com </br>
  ➻ Restaurante Taberna: https://restaurantetaberna.com </br>
-
+ 
+## Certificações:
+ ➻ Full Stack PHP: https://www.upinside.com.br/certificados/5459262202211 </br>
+ ➻ CSS produtivo com Sass: https://www.upinside.com.br/certificados/5459269202111 </br>
+ ➻ DevTools Essentials: https://www.upinside.com.br/certificados/5459261202111 </br>
+ ➻ Produtividade e Gestão de Tempo: https://conqueronline.com.br/certificates/39c9551c-0830-4369-a871-50ff58c68984 </br>
+ ➻ Wordpress Como CMS: Origamid </br>
+ 
 ## Alguns Links
   
 <div> 
