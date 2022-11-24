@@ -40,6 +40,8 @@ Com 5 anos de carreira desenvolvida na área de Web, com experiência na criaç�
  ➻ Ideal Recursos Humanos: https://rhideal.com.br </br>
  ➻ Comercial Casa do Açougueiro: https://comercialcasadoacougueiro.com </br>
  ➻ Restaurante Taberna: https://restaurantetaberna.com </br>
+ --------------------Projetos no Github: -----------------</br>
+ ➻ Landing Page: https://adriano-nelex.github.io/landing-page/ </br>
  
 ## Certificações:
  ➻ Full Stack PHP: https://www.upinside.com.br/certificados/5459262202211 </br>
