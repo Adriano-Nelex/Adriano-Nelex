@@ -28,7 +28,7 @@ Com quase 5 anos de carreira desenvolvida na área de Web, com experiência na c
   ➻ 🔭 Atualmente trabalho na Fasters. </br>
   ➻ 🌱 Estou me aprofundando atualmente em PHP e Javascript. </br>
   ➻ 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento. </br>
-  ➻ 😄 Fazendo um curso de Fullstack Javascript.
+  ➻ 😄 Curso de Fullstack Javascript (Estudando).
   
 ## Alguns projetos/Portfolio:
  ➻ FK Partners: https://fkpartners.com </br>
