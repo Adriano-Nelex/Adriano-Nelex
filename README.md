@@ -49,7 +49,7 @@ Com quase 5 anos de carreira desenvolvida na área de Web, com experiência na c
  ➻ Bootstrap Builder: https://www.upinside.com.br/certificados/5459264202211 </br>
  ➻ DevTools Essentials: https://www.upinside.com.br/certificados/5459261202111 </br>
  ➻ Produtividade e Gestão de Tempo: https://conqueronline.com.br/certificates/39c9551c-0830-4369-a871-50ff58c68984 </br>
- ➻ Wordpress Como CMS: Origamid </br>
+ ➻ Onebitcode HTML:
  
 ## Alguns Links
   
