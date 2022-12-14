@@ -49,7 +49,11 @@ Com quase 5 anos de carreira desenvolvida na área de Web, com experiência na c
  ➻ Bootstrap Builder: https://www.upinside.com.br/certificados/5459264202211 </br>
  ➻ DevTools Essentials: https://www.upinside.com.br/certificados/5459261202111 </br>
  ➻ Produtividade e Gestão de Tempo: https://conqueronline.com.br/certificates/39c9551c-0830-4369-a871-50ff58c68984 </br>
- ➻
+ ➻ Cursos Onebitcode Full Stack Javscript (andamento): </br>
+    <div align="center">  
+      <img align="center" alt="Adriano-Onebitcode-HTML5" height="auto" width="25%" src="https://user-images.githubusercontent.com/50491181/207620815-0b2f059c-0fd5-4c18-8a5c-bb5b89d50b6d.jpg" />
+    </div>
+ 
  
 ## Alguns Links
   
