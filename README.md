@@ -24,7 +24,7 @@ Com quase 5 anos de carreira desenvolvida na área de Web, com experiência na c
   <img align="center" alt="Adriano-Gulp" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
 </div>
   
-## Detalhe
+## Detalhes
   ➻ 🔭 Atualmente trabalho na Fasters. </br>
   ➻ 🌱 Estou me aprofundando atualmente em PHP e Javascript. </br>
   ➻ 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento. </br>
