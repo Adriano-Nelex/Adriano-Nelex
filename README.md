@@ -28,7 +28,7 @@ Com quase 5 anos de carreira desenvolvida na área de Web, com experiência na c
   ➻ 🔭 Atualmente trabalho na Fasters. </br>
   ➻ 🌱 Estou me aprofundando atualmente em PHP e Javascript. </br>
   ➻ 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento. </br>
-  ➻ 😄 Curso de Fullstack Javascript (Estudando).
+  ➻ 😄 Curso de Fullstack Javascript (Estudando). </br>
   
 ## Alguns projetos/Portfolio:
  ➻ FK Partners: https://fkpartners.com </br>
@@ -41,7 +41,7 @@ Com quase 5 anos de carreira desenvolvida na área de Web, com experiência na c
  ➻ Comercial Casa do Açougueiro: https://comercialcasadoacougueiro.com </br>
  ➻ Restaurante Taberna: https://restaurantetaberna.com </br>
  --------------------Projetos no Github: -----------------</br>
- ➻ Landing Page: https://adriano-nelex.github.io/landing-page/
+ ➻ Landing Page: https://adriano-nelex.github.io/landing-page/ </br>
  
 ## Certificações:
  ➻ Full Stack PHP: https://www.upinside.com.br/certificados/5459262202211 </br>
