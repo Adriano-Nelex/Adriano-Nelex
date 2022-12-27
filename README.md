@@ -41,7 +41,7 @@ Com quase 5 anos de carreira desenvolvida na área de Web, com experiência na c
  ➻ Comercial Casa do Açougueiro: https://comercialcasadoacougueiro.com </br>
  ➻ Restaurante Taberna: https://restaurantetaberna.com </br>
  --------------------Projetos no Github: -----------------</br>
- ➻ Landing Page: https://adriano-nelex.github.io/landing-page/ </br>
+ ➻ Landing Page (HTML, CSS e Javascript): https://adriano-nelex.github.io/landing-page/ </br>
  ➻ Projeto com foco em SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
  ➻ Jogo da velha em PHP: https://github.com/Adriano-Nelex/jogo-da-velha-PHP </br>
  
