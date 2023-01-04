@@ -36,9 +36,7 @@ Com quase 5 anos de carreira desenvolvida na área de Web, com experiência na c
  ➻ Evans Advogados: https://evansadvogados.com.br </br>
  ➻ Apsen Farmacêutica: https://www.apsen.com.br/digeliv </br>
  ➻ Apsen Farmacêutica: https://www.apsen.com.br/fibromialgia </br>
- ➻ Supermercado IB Bragion: https://www.bragion.com.br </br>
  ➻ Ideal Recursos Humanos: https://rhideal.com.br </br>
- ➻ Comercial Casa do Açougueiro: https://comercialcasadoacougueiro.com </br>
  ➻ Restaurante Taberna: https://restaurantetaberna.com </br>
  --------------------Projetos no Github: -----------------</br>
  ➻ Landing Page (HTML, CSS e Javascript): https://adriano-nelex.github.io/landing-page/ </br>
