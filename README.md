@@ -38,6 +38,8 @@ Com quase 5 anos de carreira desenvolvida na área de Web, com experiência na c
  ➻ Apsen Farmacêutica: https://www.apsen.com.br/fibromialgia </br>
  ➻ Ideal Recursos Humanos: https://rhideal.com.br </br>
  ➻ Restaurante Taberna: https://restaurantetaberna.com </br>
+ ➻ Embala Extrema: https://embalaex.com.br </br>
+ ➻ Fuji Multimarcas: https://fujimultimarcas.com.br/ </br>
  --------------------Projetos no Github: -----------------</br>
  ➻ Landing Page (HTML, CSS e Javascript): https://adriano-nelex.github.io/landing-page/ </br>
  ➻ Projeto com foco em SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
