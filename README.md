@@ -26,7 +26,7 @@ Com quase 5 anos de carreira desenvolvida na área de Web, com experiência na c
   
 ## Detalhes
   ➻ 🔭 Atualmente trabalho na Fasters. </br>
-  ➻ 🌱 Estou me aprofundando atualmente em PHP e Javascript. </br>
+  ➻ 🌱 Estou me aprofundando em PHP e Javascript. </br>
   ➻ 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento. </br>
   ➻ 😄 Curso de Fullstack Javascript (Estudando). </br>
   
