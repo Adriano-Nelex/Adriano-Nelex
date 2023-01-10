@@ -34,7 +34,6 @@ Com quase 5 anos de carreira desenvolvida na área de Web, com experiência na c
  ➻ FK Partners: https://fkpartners.com </br>
  ➻ Paz e Dinheiro: https://pazedinheiro.com.br/ </br>
  ➻ Evans Advogados: https://evansadvogados.com.br </br>
- ➻ Apsen Farmacêutica: https://www.apsen.com.br/digeliv </br>
  ➻ Apsen Farmacêutica: https://www.apsen.com.br/fibromialgia </br>
  ➻ Ideal Recursos Humanos: https://rhideal.com.br </br>
  ➻ Restaurante Taberna: https://restaurantetaberna.com </br>
