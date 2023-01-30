@@ -43,7 +43,7 @@ Com 5 anos de carreira desenvolvida na área de Web, com experiência na criaç�
  ➻ Fuji Multimarcas: https://fujimultimarcas.com.br/ </br>
  ➻ Restaurante Taberna: https://restaurantetaberna.com/ </br>
  ➻ Supermercado IB Bragion: https://bragion.com.br/ </br>
- ➻ Tetra Supoermercados/Page APP: https://www.tetrasupermercado.com.br/tetramaiseconomia/ </br>
+ ➻ Tetra Supermercado/Page APP: https://www.tetrasupermercado.com.br/tetramaiseconomia/ </br>
  ➻ Aplicativo Extrema de AaZ: https://play.google.com/store/apps/details?id=com.aaz.extrema&hl=pt_BR&gl=US </br>
  
  --------------------Projetos no Github: -----------------</br>
