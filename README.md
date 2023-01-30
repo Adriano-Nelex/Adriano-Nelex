@@ -42,7 +42,7 @@ Com 5 anos de carreira desenvolvida na área de Web, com experiência na criaç�
  --------------------Projetos no Github: -----------------</br>
  ➻ Landing Page (HTML, CSS e Javascript): https://adriano-nelex.github.io/landing-page/ </br>
  ➻ Projeto com foco em SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
- ➻ Jogo da velha em PHP: https://github.com/Adriano-Nelex/jogo-da-velha-PHP
+ ➻ Jogo da velha em PHP: https://github.com/Adriano-Nelex/jogo-da-velha-PHP </br>
  
 ## Certificações:
  ➻ Full Stack PHP: https://www.upinside.com.br/certificados/5459262202211 </br>
