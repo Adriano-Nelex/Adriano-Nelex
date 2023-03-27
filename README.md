@@ -37,6 +37,7 @@ Com 5 anos de carreira desenvolvida na área de Web, com experiência na criaç�
  ➻ Apsen Farmacêutica/Fibromialgia: https://www.apsen.com.br/fibromialgia </br>
  ➻ Apsen Farmacêutica/Probians: https://www.apsen.com.br/probians/ </br>
  ➻ Apsen Farmacêutica/Ativs: https://www.apsen.com.br/attivs/ </br>
+ ➻ Site Semeq Desenvolvido Para a Nork: https://semeq.com/ </br>
  ➻ Ideal Recursos Humanos: https://rhideal.com.br </br>
  ➻ Restaurante Taberna: https://restaurantetaberna.com </br>
  ➻ Comercial Casa do açougueiro: https://comercialcasadoacougueiro.com/ </br>
