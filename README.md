@@ -44,7 +44,6 @@ Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboraç
  ➻ Apsen Farmacêutica/Fibromialgia: https://www.apsen.com.br/fibromialgia </br>
  ➻ Apsen Farmacêutica/Probians: https://www.apsen.com.br/probians/ </br>
  ➻ Apsen Farmacêutica/Ativs: https://www.apsen.com.br/attivs/ </br>
- ➻ Semeq Desenvolvido Para a Nork Tecnologia: https://semeq.com/ </br>
  ➻ Ideal Recursos Humanos: https://rhideal.com.br </br>
  ➻ Restaurante Taberna: https://restaurantetaberna.com </br>
  ➻ Comercial Casa do açougueiro: https://comercialcasadoacougueiro.com/ </br>
