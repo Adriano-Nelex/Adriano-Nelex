@@ -30,7 +30,10 @@ Com 5 anos de carreira desenvolvida na área de Web, com experiência na criaç�
   ➻ 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento. </br>
   ➻ 😄 Curso de Fullstack Javascript (Estudando). </br>
   
-## Alguns projetos/Portfolio:
+## Alguns Projetos/Portfolio:
+
+ Sites e Aplicações WEB:
+ 
  ➻ FK Partners: https://fkpartners.com </br>
  ➻ Paz e Dinheiro: https://pazedinheiro.com.br/ </br>
  ➻ Evans Advogados: https://evansadvogados.com.br </br>
@@ -47,7 +50,8 @@ Com 5 anos de carreira desenvolvida na área de Web, com experiência na criaç�
  ➻ Tetra Supermercado/Page APP: https://www.tetrasupermercado.com.br/tetramaiseconomia/ </br>
  ➻ Aplicativo Extrema de AaZ: https://play.google.com/store/apps/details?id=com.aaz.extrema&hl=pt_BR&gl=US
  
- --------------------Projetos no Github: -----------------</br>
+ Projetos no Github:
+ 
  ➻ Landing Page (HTML, CSS e Javascript): https://adriano-nelex.github.io/landing-page/ </br>
  ➻ Projeto com foco em SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
  ➻ Jogo da velha em PHP: https://github.com/Adriano-Nelex/jogo-da-velha-PHP </br>
