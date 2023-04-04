@@ -1,7 +1,11 @@
 <h1 align="center">Olá, Seja Bem-vindo(a)!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
-Com 5 anos de carreira desenvolvida na área de Web, com experiência na criação e manutenção de paginas além de configurações e atualizações em servidores de hospedagem e e-mail marketing. Com foco no cumprimento de critérios e prazos estabelecidos de acordo com o projeto. Capaz de desenvolver sites em Wordpress utilizando as melhores técnicas e ferramentas para uma melhor interação do usuário e do administrador. Busco me atualizar e ficar por dentro das novas tecnologias do mercado para atender possíveis demandas e necessidades.
+Atualmente sou desenvolvedor web Front-end com experiência em criar interfaces de usuário atraentes e intuitivas para websites e aplicações web. Possuo habilidades especializadas em HTML, CSS e Javascript, bem como profundo conhecimento em suas ferramentas e frameworks, incluindo Bootstrap, SASS, GULP e Grunt.
+
+Tenho uma ampla experiência em desenvolvimento de sites e aplicações usando o CMS WordPress, onde sou capaz de personalizá-lo para atender às necessidades do cliente. Também possuo habilidades em trabalhar com servidores de hospedagem dedicadas e compartilhadas, com um conhecimento profundo de configurações e gerenciamento de servidores, garantindo que os sites e aplicações que desenvolvo funcionem de forma rápida e confiável.
+
+Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboração, sendo capaz de trabalhar em equipe, gerenciar projetos e garantir que o desenvolvimento de sites e aplicações seja entregue dentro do prazo e do orçamento estipulado. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e aperfeiçoar minhas técnicas de desenvolvimento.
 
 <div align="center">
   <a href="https://github.com/Adriano-Nelex">
