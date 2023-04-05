@@ -1,32 +1,25 @@
 import requests
-from googletrans import Translator
 
-# Define as bandeiras disponíveis e suas URLs
-bandeiras = {
-    'português': 'https://raw.githubusercontent.com/hampusborgos/country-flags/master/png1000px/br.png',
-    'inglês': 'https://raw.githubusercontent.com/hampusborgos/country-flags/master/png1000px/us.png',
-    'espanhol': 'https://raw.githubusercontent.com/hampusborgos/country-flags/master/png1000px/es.png'
-}
+# lista de idiomas e suas respectivas siglas
+languages = {'Portuguese': 'pt', 'English': 'en', 'Spanish': 'es'}
 
-# Pede ao usuário que selecione uma língua
-lingua = input('Selecione uma língua (português, inglês, espanhol): ')
+# função para traduzir texto utilizando a API do Google Translate
+def translate_text(text, target_language):
+    api_url = "https://translate.googleapis.com/translate_a/single"
+    params = {'client': 'gtx', 'sl': 'auto', 'tl': target_language, 'dt': 't', 'q': text}
+    response = requests.get(api_url, params=params)
+    translation = response.json()[0][0][0]
+    return translation
 
-# Obtém a URL da bandeira correspondente à língua selecionada
-url_bandeira = bandeiras.get(lingua)
+# loop para adicionar as bandeiras de idioma no README
+for language, code in languages.items():
+    flag_url = f"https://raw.githubusercontent.com/hampusborgos/country-flags/master/svg/{code}.svg"
+    markdown_code = f"![{language}]({flag_url})\n\n"
+    with open('README.md', 'a') as file:
+        file.write(markdown_code)
 
-# Verifica se a língua selecionada está disponível
-if url_bandeira is None:
-    print('Língua não disponível')
-else:
-    # Obtém a imagem da bandeira e salva em um arquivo
-    response = requests.get(url_bandeira)
-    with open('bandeira.png', 'wb') as file:
-        file.write(response.content)
-    print('Bandeira salva com sucesso')
-
-    # Traduz o nome da língua selecionada para o inglês
-    translator = Translator()
-    lingua_ingles = translator.translate(lingua, dest='en').text
-
-    # Exibe o nome da língua selecionada em inglês
-    print(f'Você selecionou: {lingua_ingles}')
+# exemplo de como traduzir o seu perfil para o idioma desejado (no caso, espanhol)
+profile_text = "Hello! My name is ChatGPT."
+target_language = 'es'
+translated_text = translate_text(profile_text, target_language)
+print(translated_text)
