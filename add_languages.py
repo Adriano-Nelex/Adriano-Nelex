@@ -1,7 +1,7 @@
 import requests
 
 # lista de idiomas e suas respectivas siglas
-languages = {'Portuguese': 'pt', 'English': 'en', 'Spanish': 'es'}
+languages = {'Portuguese': 'br', 'English': 'en', 'Spanish': 'es'}
 
 # função para traduzir texto utilizando a API do Google Translate
 def translate_text(text, target_language):
