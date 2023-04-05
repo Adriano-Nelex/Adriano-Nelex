@@ -1,3 +1,5 @@
+![Português](./flags/brazil.png)  ![English](./flags/united-states.png)
+
 <h1 align="center">Olá, Seja Bem-vindo(a)!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
