@@ -15,6 +15,7 @@ Tenho uma ampla experiência em desenvolvimento de sites e aplicações usando o
 Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboração, sendo capaz de trabalhar em equipe, gerenciar projetos e garantir que o desenvolvimento de sites e aplicações seja entregue dentro do prazo e do orçamento estipulado. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e aperfeiçoar minhas técnicas de desenvolvimento.
 
 <div align="center">
+  </br>
   <a href="https://github.com/Adriano-Nelex">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adriano-Nelex&show_icons=true&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-Nelex&layout=compact&langs_count=8&theme=dark"/>
