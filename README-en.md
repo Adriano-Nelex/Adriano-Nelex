@@ -1,7 +1,10 @@
-<p align="center">
-  <a href="README-en.md">English</a> |
-  <a href="README-pt.md">Português</a>
-</p>
+<div align="center">
+  <p>
+    <a href="README-en.md"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/united-states.png" alt="English"></a>
+    <img height="30em" src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/horizontal.png" alt="linha">
+    <a href="README.md"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/brazil.png" alt="Português"></a>
+  </p>
+</div>
 
 
 <h1 align="center">Hello, Welcome!</h1>
@@ -34,15 +37,15 @@ As a Front-end developer, I have communication and collaboration skills, being a
   <img align="center" alt="Adriano-Gulp" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
 </div>
   
-## Detalhes
-  ➻ 🔭 Atualmente trabalho na Fasters. </br>
-  ➻ 🌱 Estou me aprofundando em PHP e Javascript. </br>
-  ➻ 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento. </br>
-  ➻ 😄 Curso de Fullstack Javascript (Estudando).
+## Details
+  ➻ 🔭 I currently work at Fasters. </br>
+  ➻ 🌱 I'm getting deeper into PHP and Javascript. </br>
+  ➻ 🤗 I like to experience new learning and collaborate with knowledge sharing. </br>
+  ➻ 😄 Fullstack Javascript Course (Studying).
   
-## Alguns Projetos/Portfolio:
+## Projects/Portfolio:
 
- Sites e Aplicações WEB:
+ Websites and WEB Applications:
  
  ➻ FK Partners: https://fkpartners.com </br>
  ➻ Paz e Dinheiro: https://pazedinheiro.com.br/ </br>
@@ -54,30 +57,30 @@ As a Front-end developer, I have communication and collaboration skills, being a
  ➻ Restaurante Taberna: https://restaurantetaberna.com </br>
  ➻ Comercial Casa do açougueiro: https://comercialcasadoacougueiro.com/ </br>
  ➻ Fuji Multimarcas: https://fujimultimarcas.com.br/ </br>
- ➻ Restaurante Taberna: https://restaurantetaberna.com/ </br>
- ➻ Supermercado IB Bragion: https://bragion.com.br/ </br>
- ➻ Tetra Supermercado/Page APP: https://www.tetrasupermercado.com.br/tetramaiseconomia/ </br>
- ➻ Aplicativo Extrema de AaZ: https://play.google.com/store/apps/details?id=com.aaz.extrema&hl=pt_BR&gl=US
+ ➻ Restaurant Taberna: https://restaurantetaberna.com/ </br>
+ ➻ Supermarket IB Bragion: https://bragion.com.br/ </br>
+ ➻ Tetra Supermarket/Page APP: https://www.tetrasupermercado.com.br/tetramaiseconomia/ </br>
+ ➻ Aplication Extrema de AaZ: https://play.google.com/store/apps/details?id=com.aaz.extrema&hl=pt_BR&gl=US
  
- Projetos no Github:
+ Projects on Github:
  
  ➻ Landing Page (HTML, CSS e Javascript): https://adriano-nelex.github.io/landing-page/ </br>
- ➻ Projeto com foco em SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
- ➻ Jogo da velha em PHP: https://github.com/Adriano-Nelex/jogo-da-velha-PHP </br>
+ ➻ Project focused on SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
+ ➻ Tic Tac Toe in PHP: https://github.com/Adriano-Nelex/jogo-da-velha-PHP </br>
  
-## Certificações:
+## Certifications:
  ➻ Full Stack PHP: https://www.upinside.com.br/certificados/5459262202211 </br>
- ➻ CSS produtivo com Sass: https://www.upinside.com.br/certificados/5459269202111 </br>
+ ➻ Productive CSS with Sass: https://www.upinside.com.br/certificados/5459269202111 </br>
  ➻ Bootstrap Builder: https://www.upinside.com.br/certificados/5459264202211 </br>
  ➻ DevTools Essentials: https://www.upinside.com.br/certificados/5459261202111 </br>
- ➻ Produtividade e Gestão de Tempo: https://conqueronline.com.br/certificates/39c9551c-0830-4369-a871-50ff58c68984 </br>
- ➻ Cursos Onebitcode Full Stack Javascript (andamento):
+ ➻ Productivity and Time Management: https://conqueronline.com.br/certificates/39c9551c-0830-4369-a871-50ff58c68984 </br>
+ ➻ Course Onebitcode Full Stack Javascript (Studying):
     <div align="center">  
       <img align="center" alt="Adriano-Onebitcode-HTML5" height="auto" width="25%" src="https://user-images.githubusercontent.com/50491181/207620815-0b2f059c-0fd5-4c18-8a5c-bb5b89d50b6d.jpg" />
       <img align="center" alt="Adriano-Onebitcode-CSS3" height="auto" width="25%" src="https://user-images.githubusercontent.com/50491181/207623192-05ae9640-b167-4887-9f2e-73c9f6dd1fa9.jpg" />
     </div>
  
-## Alguns Links
+## Some Links
   
 <div> 
   <a href="https://www.instagram.com/adriano_.fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
