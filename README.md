@@ -2,11 +2,10 @@
   <link rel="stylesheet" href="style.css">
 </head>
 
-<div align="center">
-  <h5>Language</h5>
+<div>
   <p style="display: inline-flex;">
-    <a href="README-en.md" style="margin: 1em;"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/united-states.png" alt="English" style="vertical-align:middle"></a>
-    <a href="README.md" style="margin: 1em;"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/brazil.png" alt="Português" style="vertical-align:middle"></a>
+    <a href="README-en.md" class="destaque"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/united-states.png" alt="English" style="vertical-align:middle"></a>
+    <a href="README.md"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/brazil.png" alt="Português" style="vertical-align:middle"></a>
   </p>
 </div>
 
