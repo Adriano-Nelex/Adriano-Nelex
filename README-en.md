@@ -17,6 +17,7 @@ I have extensive experience in developing websites and applications using the Wo
 As a Front-end developer, I have communication and collaboration skills, being able to work in teams, manage projects and ensure that website and application development is delivered on time and within budget. I'm always looking for new challenges and opportunities to improve my skills and improve my development techniques.
 
 <div align="center">
+  </br>
   <a href="https://github.com/Adriano-Nelex">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adriano-Nelex&show_icons=true&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-Nelex&layout=compact&langs_count=8&theme=dark"/>
