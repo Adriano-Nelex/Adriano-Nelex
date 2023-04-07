@@ -1,8 +1,9 @@
-<p align="center">
-  <a href="README-en.md">English</a> |
-  <a href="README-pt.md">Português</a>
-</p>
-
+<div align="center">
+  <p style="display: flex; justify-content: center;">
+    <a href="README-en.md" style="display: inline-flex; align-items: center;"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/united-states.png" alt="English" style="vertical-align:middle"></a> |
+    <a href="README-pt.md" style="display: inline-flex; align-items: center;"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/brazil.png" alt="Português" style="vertical-align:middle"></a>
+  </p>
+</div>
 
 <h1 align="center">Olá, Seja Bem-vindo(a)!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
