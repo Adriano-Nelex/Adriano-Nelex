@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Seja Bem-vindo(a)!</h1>
+<h1 align="center">Hello, Welcome!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
 Atualmente sou desenvolvedor web Front-end com experiência em criar interfaces de usuário atraentes e intuitivas para websites e aplicações web. Possuo habilidades especializadas em HTML, CSS e Javascript, bem como profundo conhecimento em suas ferramentas e frameworks, incluindo Bootstrap, SASS, GULP e Grunt.
