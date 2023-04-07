@@ -1,6 +1,7 @@
 <div align="center">
   <p>
     <a href="README-en.md"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/united-states.png" alt="English"></a>
+    <img height="30em" src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/horizontal.png" alt="linha">
     <a href="README.md"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/brazil.png" alt="Português"></a>
   </p>
 </div>
