@@ -1,5 +1,3 @@
-[![Alternate-branch](https://img.shields.io/badge/-English-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Adriano-Nelex/Adriano-Nelex/tree/english)
-
 <h1 align="center">Olá, Seja Bem-vindo(a)!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
