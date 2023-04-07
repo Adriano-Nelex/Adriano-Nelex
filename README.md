@@ -1,11 +1,11 @@
 <h1 align="center">Hello, Welcome!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
-Atualmente sou desenvolvedor web Front-end com experiência em criar interfaces de usuário atraentes e intuitivas para websites e aplicações web. Possuo habilidades especializadas em HTML, CSS e Javascript, bem como profundo conhecimento em suas ferramentas e frameworks, incluindo Bootstrap, SASS, GULP e Grunt.
+I am currently a Front-end web developer with experience creating attractive and intuitive user interfaces for websites and web applications. I have specialized skills in HTML, CSS and Javascript, as well as deep knowledge in their tools and frameworks, including Bootstrap, SASS, GULP and Grunt.
 
-Tenho uma ampla experiência em desenvolvimento de sites e aplicações usando o CMS WordPress, onde sou capaz de personalizá-lo para atender às necessidades do cliente. Também possuo habilidades em trabalhar com servidores de hospedagem dedicadas e compartilhadas, com um conhecimento profundo de configurações e gerenciamento de servidores, garantindo que os sites e aplicações que desenvolvo funcionem de forma rápida e confiável.
+I have extensive experience in developing websites and applications using the WordPress CMS, where I am able to customize it to suit the client's needs. I also have skills in working with dedicated and shared hosting servers, with an in-depth knowledge of server configurations and management, ensuring that the websites and applications I develop work quickly and reliably.
 
-Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboração, sendo capaz de trabalhar em equipe, gerenciar projetos e garantir que o desenvolvimento de sites e aplicações seja entregue dentro do prazo e do orçamento estipulado. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e aperfeiçoar minhas técnicas de desenvolvimento.
+As a Front-end developer, I have communication and collaboration skills, being able to work in teams, manage projects and ensure that website and application development is delivered on time and within budget. I'm always looking for new challenges and opportunities to improve my skills and improve my development techniques.
 
 <div align="center">
   <a href="https://github.com/Adriano-Nelex">
