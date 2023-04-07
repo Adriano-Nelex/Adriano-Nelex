@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="README-en.md">English</a> |
+  <a href="README-pt.md">Português</a>
+</p>
+
+
 <h1 align="center">Hello, Welcome!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
