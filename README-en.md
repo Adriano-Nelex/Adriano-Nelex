@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header" />
+
 <div align="center">
   <p>
     <a href="README-en.md"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/united-states.png" alt="English"></a>
@@ -19,8 +21,8 @@ As a Front-end developer, I have communication and collaboration skills, being a
 <div align="center">
   </br>
   <a href="https://github.com/Adriano-Nelex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adriano-Nelex&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-Nelex&layout=compact&langs_count=8&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adriano-Nelex&show_icons=true&count_private=true&hide_border=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-Nelex&layout=compact&hide_border=true&langs_count=8&theme=dark"/>
 </div>
 
 ## Skills
@@ -91,3 +93,5 @@ As a Front-end developer, I have communication and collaboration skills, being a
   ![Snake animation](https://github.com/Adriano-Nelex/Adriano-Nelex/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" />
