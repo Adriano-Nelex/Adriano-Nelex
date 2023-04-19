@@ -42,7 +42,7 @@ Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboraç
   ➻ 🔭 Atualmente trabalho na Fasters. </br>
   ➻ 🌱 Estou me aprofundando em PHP e Javascript. </br>
   ➻ 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento. </br>
-  ➻ 😄 Curso de Fullstack Javascript (Estudando). </br>
+  ➻ 😄 Curso de Fullstack Javascript (Estudando).
   
 ## Alguns Projetos/Portfolio:
 
