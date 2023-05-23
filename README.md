@@ -19,8 +19,8 @@ Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboraç
 <div align="center">
   </br>
   <a href="https://github.com/Adriano-Nelex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adriano-Nelex&show_icons=true&count_private=true&hide_border=true&theme=ayu-mirage"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-Nelex&layout=compact&hide_border=true&langs_count=8&theme=ayu-mirage"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Adriano-Nelex&show_icons=true&count_private=true&hide_border=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-Nelex&layout=compact&hide_border=true&langs_count=8&theme=dark"/>
 </div>
 
 ## Skills
