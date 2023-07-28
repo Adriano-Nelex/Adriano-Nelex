@@ -69,7 +69,6 @@ As a Front-end developer, I have communication and collaboration skills, being a
  
  ➻ Landing Page (HTML, CSS e Javascript): https://adriano-nelex.github.io/landing-page/ </br>
  ➻ Project focused on SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
- ➻ Tic Tac Toe in PHP: https://github.com/Adriano-Nelex/jogo-da-velha-PHP </br>
  
 ## Certifications:
  ➻ Full Stack PHP: https://www.upinside.com.br/certificados/5459262202211 </br>
