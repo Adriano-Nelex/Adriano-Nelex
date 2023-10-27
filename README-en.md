@@ -59,7 +59,6 @@ As a Front-end developer, I have communication and collaboration skills, being a
  ➻ Apsen Farmacêutica/Probians: https://www.apsen.com.br/probians/ </br>
  ➻ Apsen Farmacêutica/Ativs: https://www.apsen.com.br/attivs/ </br>
  ➻ Ideal Recursos Humanos: https://rhideal.com.br </br>
- ➻ Restaurante Taberna: https://restaurantetaberna.com </br>
  ➻ Comercial Casa do açougueiro: https://comercialcasadoacougueiro.com/ </br>
  ➻ Fuji Multimarcas: https://fujimultimarcas.com.br/ </br>
  ➻ Restaurant Taberna: https://restaurantetaberna.com/ </br>
