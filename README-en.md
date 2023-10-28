@@ -50,23 +50,34 @@ As a Front-end developer, I have communication and collaboration skills, being a
   
 ## Projects/Portfolio:
 
- Websites and WEB Applications:
+ <b>Projects with the <a href="https://fasters.com.br/">Fasters:</a></b>
+
+ ➻ <a href="https://cjfashion.com/">CJ Fashion;</a></br>
+ ➻ <a href="https://editorial-realestate.jhsf.com.br/">JHSF Real Estate Editorial;</a></br>
+ ➻ <a href="https://fkpartners.com">FK Partners;</a></br>
+ ➻ <a href="https://pazedinheiro.com.br/">Paz e Dinheiro;</a></br>
+ ➻ <a href="https://evansadvogados.com.br">Evans Advogados;</a></br>
+ ➻ <a href="https://www.apsen.com.br/fibromialgia">Apsen Farmacêutica/Fibromialgia;</a></br>
+ ➻ <a href="https://www.apsen.com.br/probians/">Apsen Farmacêutica/Probians;</a></br>
+ ➻ <a href="https://www.apsen.com.br/attivs/">Apsen Farmacêutica/Ativs.</a></br>
+
+ <b>Projects with the <a href="https://nork.com.br/">Nork:</a></b>
+
+ ➻ <a href="https://semeq.com">Semeq;</a></br>
+ ➻ <a href="https://pantaimaresias.com.br/">Pousada Pantai Maresias;</a></br>
+ ➻ <a href="https://cairescondominios.com.br/">Caires Condominios;</a></br>
+
+ <b>Projects with the <a href="https://ideapublicidade.com.br/">Idea Publicidade:</a></b>
  
- ➻ FK Partners: https://fkpartners.com </br>
- ➻ Paz e Dinheiro: https://pazedinheiro.com.br/ </br>
- ➻ Evans Advogados: https://evansadvogados.com.br </br>
- ➻ Apsen Farmacêutica/Fibromialgia: https://www.apsen.com.br/fibromialgia </br>
- ➻ Apsen Farmacêutica/Probians: https://www.apsen.com.br/probians/ </br>
- ➻ Apsen Farmacêutica/Ativs: https://www.apsen.com.br/attivs/ </br>
- ➻ Ideal Recursos Humanos: https://rhideal.com.br </br>
- ➻ Comercial Casa do açougueiro: https://comercialcasadoacougueiro.com/ </br>
- ➻ Fuji Multimarcas: https://fujimultimarcas.com.br/ </br>
- ➻ Restaurant Taberna: https://restaurantetaberna.com/ </br>
- ➻ Supermarket IB Bragion: https://bragion.com.br/ </br>
- ➻ Tetra Supermarket/Page APP: https://www.tetrasupermercado.com.br/tetramaiseconomia/ </br>
- ➻ Aplication Extrema de AaZ: https://play.google.com/store/apps/details?id=com.aaz.extrema&hl=pt_BR&gl=US
+ ➻ <a href="https://rhideal.com.br/">Ideal Recursos Humanos;</a></br>
+ ➻ <a href="https://comercialcasadoacougueiro.com/">Comercial Casa do açougueiro;</a></br>
+ ➻ <a href="https://fujimultimarcas.com.br/">Fuji Multimarcas;</a></br>
+ ➻ <a href="https://restaurantetaberna.com/">Restaurante Taberna:</a></br>
+ ➻ <a href="https://bragion.com.br/">Supermercado IB Bragion;</a></br>
+ ➻ <a href="https://www.tetrasupermercado.com.br/tetramaiseconomia/">Tetra Supermercado/Page APP;</a></br>
+ ➻ <a href="https://play.google.com/store/apps/details?id=com.aaz.extrema&hl=pt_BR&gl=US">Aplicativo Extrema de AaZ:</a></br>
  
- Projects on Github:
+ <b>Projects on Github:</b>:
  
  ➻ Landing Page (HTML, CSS e Javascript): https://adriano-nelex.github.io/landing-page/ </br>
  ➻ Project focused on SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
