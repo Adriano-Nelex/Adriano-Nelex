@@ -21,8 +21,10 @@ Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboraç
 
   
 [![](https://raw.githubusercontent.com/Adriano-Nelex/AdrianoNelex/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Adriano-Nelex/AdrianoNelex/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Adriano-Nelex/AdrianoNelex/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Adriano-Nelex/AdrianoNelex/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Adriano-Nelex/AdrianoNelex/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Adriano-Nelex/AdrianoNelex/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/Adriano-Nelex/AdrianoNelex/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Adriano-Nelex/AdrianoNelex/master/profile-summary-card-output/dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://raw.githubusercontent.com/Adriano-Nelex/AdrianoNelex/master/profile-summary-card-output/dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
@@ -50,13 +52,21 @@ Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboraç
 ## Alguns Projetos/Portfolio:
 
  <b>Projetos <a href="https://fasters.com.br/">Fasters:</a></b>
- 
+
+ ➻ <a href="https://cjfashion.com/">CJ Fashion;</a></br>
+ ➻ <a href="https://editorial-realestate.jhsf.com.br/">JHSF Real Estate Editorial;</a></br>
  ➻ <a href="https://fkpartners.com">FK Partners;</a></br>
  ➻ <a href="https://pazedinheiro.com.br/">Paz e Dinheiro;</a></br>
  ➻ <a href="https://evansadvogados.com.br">Evans Advogados;</a></br>
  ➻ <a href="https://www.apsen.com.br/fibromialgia">Apsen Farmacêutica/Fibromialgia;</a></br>
  ➻ <a href="https://www.apsen.com.br/probians/">Apsen Farmacêutica/Probians;</a></br>
  ➻ <a href="https://www.apsen.com.br/attivs/">Apsen Farmacêutica/Ativs.</a></br>
+
+ <b>Projetos <a href="https://nork.com.br/">Nork:</a></b>
+
+ ➻ <a href="https://semeq.com">Semeq;</a></br>
+ ➻ <a href="https://pantaimaresias.com.br/">Pousada Pantai Maresias;</a></br>
+ ➻ <a href="https://cairescondominios.com.br/">Caires Condominios;</a></br>
 
  <b>Projetos <a href="https://ideapublicidade.com.br/">Idea Publicidade:</a></b>
  
@@ -68,7 +78,7 @@ Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboraç
  ➻ <a href="https://www.tetrasupermercado.com.br/tetramaiseconomia/">Tetra Supermercado/Page APP;</a></br>
  ➻ <a href="https://play.google.com/store/apps/details?id=com.aaz.extrema&hl=pt_BR&gl=US">Aplicativo Extrema de AaZ:</a></br>
  
- Projetos no Github:
+ <b>Projetos no Github:</b>
  
  ➻ Landing Page (HTML, CSS e Javascript): https://adriano-nelex.github.io/landing-page/ </br>
  ➻ Projeto com foco em SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
