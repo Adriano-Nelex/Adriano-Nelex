@@ -51,7 +51,7 @@ Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboraç
    
 ## Alguns Projetos/Portfolio:
 
- <b>Projetos <a href="https://fasters.com.br/">Fasters:</a></b>
+ <b>Projetos com a <a href="https://fasters.com.br/">Fasters:</a></b>
 
  ➻ <a href="https://cjfashion.com/">CJ Fashion;</a></br>
  ➻ <a href="https://editorial-realestate.jhsf.com.br/">JHSF Real Estate Editorial;</a></br>
@@ -62,13 +62,13 @@ Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboraç
  ➻ <a href="https://www.apsen.com.br/probians/">Apsen Farmacêutica/Probians;</a></br>
  ➻ <a href="https://www.apsen.com.br/attivs/">Apsen Farmacêutica/Ativs.</a></br>
 
- <b>Projetos <a href="https://nork.com.br/">Nork:</a></b>
+ <b>Projetos com a <a href="https://nork.com.br/">Nork:</a></b>
 
  ➻ <a href="https://semeq.com">Semeq;</a></br>
  ➻ <a href="https://pantaimaresias.com.br/">Pousada Pantai Maresias;</a></br>
  ➻ <a href="https://cairescondominios.com.br/">Caires Condominios;</a></br>
 
- <b>Projetos <a href="https://ideapublicidade.com.br/">Idea Publicidade:</a></b>
+ <b>Projetos com a <a href="https://ideapublicidade.com.br/">Idea Publicidade:</a></b>
  
  ➻ <a href="https://rhideal.com.br/">Ideal Recursos Humanos;</a></br>
  ➻ <a href="https://comercialcasadoacougueiro.com/">Comercial Casa do açougueiro;</a></br>
