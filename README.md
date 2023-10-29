@@ -10,9 +10,14 @@
 <h1 align="center">Olá, Seja Bem-vindo(a)!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
-Atualmente sou desenvolvedor web Front-end com experiência em criar interfaces de usuário atraentes e intuitivas para websites e aplicações web. Possuo habilidades especializadas em HTML, CSS e Javascript, bem como profundo conhecimento em suas ferramentas e frameworks, incluindo Bootstrap, SASS, GULP e Grunt.
+Atualmente sou desenvolvedor Web Front-end especializado em Wordpress com experiência em criar interfaces de usuário atraentes e intuitivas para websites e aplicações web. Possuo habilidades especializadas além de um profundo conhecimento em suas ferramentas e frameworks, como:
 
-Tenho uma ampla experiência em desenvolvimento de sites e aplicações usando o CMS WordPress, onde sou capaz de personalizá-lo para atender às necessidades do cliente. Também possuo habilidades em trabalhar com servidores de hospedagem dedicadas e compartilhadas, com um conhecimento profundo de configurações e gerenciamento de servidores, garantindo que os sites e aplicações que desenvolvo funcionem de forma rápida e confiável.
+➻ Bootstrap, SASS, GULP </br>
+➻ PHP, Javascript, node.js/NPM </br>
+➻ Custom Posts, Post Types, Banco de dados Mysql, Taxonomias </br>
+➻ Metodologias Ageis: Scrum </br>
+
+Tenho uma ampla experiência em desenvolvimento de sites e aplicações, onde sou capaz de personalizá-lo para atender às necessidades do cliente. Também possuo habilidades em trabalhar com servidores de hospedagem dedicadas e compartilhadas, com um conhecimento profundo de configurações e gerenciamento de servidores, garantindo que sites e aplicações funcionem de forma rápida e confiável.
 
 Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboração, sendo capaz de trabalhar em equipe, gerenciar projetos e garantir que o desenvolvimento de sites e aplicações seja entregue dentro do prazo e do orçamento estipulado. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e aperfeiçoar minhas técnicas de desenvolvimento.
 
