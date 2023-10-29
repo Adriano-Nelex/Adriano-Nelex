@@ -12,11 +12,16 @@
 <h1 align="center">Hello, Welcome!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
-I am currently a Front-end web developer with experience creating attractive and intuitive user interfaces for websites and web applications. I have specialized skills in HTML, CSS and Javascript, as well as deep knowledge in their tools and frameworks, including Bootstrap, SASS, GULP and Grunt.
+Currently, I am a Front-end Web developer specializing in WordPress with experience in creating attractive and intuitive user interfaces for websites and web applications. I possess specialized skills and a deep knowledge of its tools and frameworks, such as:
 
-I have extensive experience in developing websites and applications using the WordPress CMS, where I am able to customize it to suit the client's needs. I also have skills in working with dedicated and shared hosting servers, with an in-depth knowledge of server configurations and management, ensuring that the websites and applications I develop work quickly and reliably.
+➻ Bootstrap, SASS, GULP </br>
+➻ PHP, Javascript, node.js/NPM </br>
+➻ Custom Posts, Post Types, Mysql Database, Taxonomies </br>
+➻ Agile Methodologies: Scrum </br>
 
-As a Front-end developer, I have communication and collaboration skills, being able to work in teams, manage projects and ensure that website and application development is delivered on time and within budget. I'm always looking for new challenges and opportunities to improve my skills and improve my development techniques.
+I have extensive experience in website and application development, where I am able to customize them to meet the client's needs. I also have skills in working with dedicated and shared hosting servers, with a profound knowledge of server configurations and management, ensuring that websites and applications run quickly and reliably.
+
+As a Front-end developer, I have communication and collaboration skills, being capable of working in teams, managing projects, and ensuring that website and application development is delivered within the specified timeframe and budget. I am always seeking new challenges and opportunities to enhance my skills and refine my development techniques.
 
 <div align="center">
   </br>
