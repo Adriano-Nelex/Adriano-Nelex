@@ -12,7 +12,7 @@
 <h1 align="center">Hello, Welcome!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
-Currently, I am a Front-end Web developer specializing in WordPress with experience in creating attractive and intuitive user interfaces for websites and web applications. I possess specialized skills and a deep knowledge of its tools and frameworks, such as:
+Currently, I am a Web developer specializing in WordPress with experience in creating attractive and intuitive user interfaces for websites and web applications. I possess specialized skills and a deep knowledge of its tools and frameworks, such as:
 
 ➻ Bootstrap, SASS, GULP </br>
 ➻ PHP, Javascript, node.js/NPM </br>
