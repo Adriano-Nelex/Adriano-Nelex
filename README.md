@@ -10,7 +10,7 @@
 <h1 align="center">Olá, Seja Bem-vindo(a)!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
-Atualmente sou desenvolvedor Web Front-end especializado em Wordpress com experiência em criar interfaces de usuário atraentes e intuitivas para websites e aplicações web. Possuo habilidades especializadas além de um profundo conhecimento em suas ferramentas e frameworks, como:
+Atualmente sou desenvolvedor Web especializado em Wordpress com experiência em criar interfaces de usuário atraentes e intuitivas para websites e aplicações web. Possuo habilidades especializadas além de um profundo conhecimento em suas ferramentas e frameworks, como:
 
 ➻ Bootstrap, SASS, GULP </br>
 ➻ PHP, Javascript, node.js/NPM </br>
