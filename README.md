@@ -59,6 +59,7 @@ Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboraç
 
  <b>Projetos com a <a href="https://fasters.com.br/">Fasters:</a></b>
 
+ ➻ <a href="https://jhsfid.com.br/">JHSF ID;</a></br>
  ➻ <a href="https://cjfashion.com/">CJ Fashion;</a></br>
  ➻ <a href="https://editorial-realestate.jhsf.com.br/">JHSF Real Estate Editorial;</a></br>
  ➻ <a href="https://fkpartners.com">FK Partners;</a></br>
