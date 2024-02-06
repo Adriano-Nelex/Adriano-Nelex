@@ -71,6 +71,7 @@ As a Front-end developer, I have communication and collaboration skills, being c
 
  ➻ <a href="https://semeq.com">Semeq;</a></br>
  ➻ <a href="https://pantaimaresias.com.br/">Pousada Pantai Maresias;</a></br>
+ ➻ <a href="https://valedaslaranjeiras.com.br/">Condominio Vale das Laranjeiras;</a></br>
  ➻ <a href="https://cairescondominios.com.br/">Caires Condominios;</a></br>
 
  <b>Projects with the <a href="https://ideapublicidade.com.br/">Idea Publicidade:</a></b>
