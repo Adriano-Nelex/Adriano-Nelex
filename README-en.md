@@ -76,7 +76,6 @@ As a Front-end developer, I have communication and collaboration skills, being c
 
  <b>Projects with the <a href="https://ideapublicidade.com.br/">Idea Publicidade:</a></b>
  
- ➻ <a href="https://rhideal.com.br/">Ideal Recursos Humanos;</a></br>
  ➻ <a href="https://comercialcasadoacougueiro.com/">Comercial Casa do açougueiro;</a></br>
  ➻ <a href="https://fujimultimarcas.com.br/">Fuji Multimarcas;</a></br>
  ➻ <a href="https://restaurantetaberna.com/">Restaurante Taberna:</a></br>
