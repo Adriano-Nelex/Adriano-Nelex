@@ -89,6 +89,7 @@ As a dev, I have communication and collaboration skills, being capable of workin
  ➻ Project focused on SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
  
 ## Certifications:
+ ➻ English level B1: https://internationalenglishtest.com/verify-certificate/12CEB2512-12CEB2517-12CEAFCDD/ </br>
  ➻ Full Stack PHP: https://www.upinside.com.br/certificados/5459262202211 </br>
  ➻ Productive CSS with Sass: https://www.upinside.com.br/certificados/5459269202111 </br>
  ➻ Bootstrap Builder: https://www.upinside.com.br/certificados/5459264202211 </br>
