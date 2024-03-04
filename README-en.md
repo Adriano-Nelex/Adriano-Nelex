@@ -22,7 +22,7 @@ Currently, I am a Web developer specializing in WordPress with experience in cre
 
 I have extensive experience in website and application development, where I am able to customize them to meet the client's needs. I also have skills in working with dedicated and shared hosting servers, with a profound knowledge of server configurations and management, ensuring that websites and applications run quickly and reliably.
 
-As a Front-end developer, I have communication and collaboration skills, being capable of working in teams, managing projects, and ensuring that website and application development is delivered within the specified timeframe and budget. I am always seeking new challenges and opportunities to enhance my skills and refine my development techniques.
+As a dev, I have communication and collaboration skills, being capable of working in teams, managing projects, and ensuring that website and application development is delivered within the specified timeframe and budget. I am always seeking new challenges and opportunities to enhance my skills and refine my development techniques.
 
 <div align="center">
   </br>
