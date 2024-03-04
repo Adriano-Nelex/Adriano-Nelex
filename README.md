@@ -20,7 +20,7 @@ Atualmente sou desenvolvedor Web especializado em Wordpress com experiência em 
 
 Tenho uma ampla experiência em desenvolvimento de sites e aplicações, onde sou capaz de personalizá-lo para atender às necessidades do cliente. Também possuo habilidades em trabalhar com servidores de hospedagem dedicadas e compartilhadas, com um conhecimento profundo de configurações e gerenciamento de servidores, garantindo que sites e aplicações funcionem de forma rápida e confiável.
 
-Como um desenvolvedor Front-end, tenho habilidades em comunicação e colaboração, sendo capaz de trabalhar em equipe, gerenciar projetos e garantir que o desenvolvimento de sites e aplicações seja entregue dentro do prazo e do orçamento estipulado. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e aperfeiçoar minhas técnicas de desenvolvimento.
+Como dev tenho habilidades em comunicação e colaboração, sendo capaz de trabalhar em equipe, gerenciar projetos e garantir que o desenvolvimento de sites e aplicações seja entregue dentro do prazo e do orçamento estipulado. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e aperfeiçoar minhas técnicas de desenvolvimento.
 
 <div align="center">
   </br>
