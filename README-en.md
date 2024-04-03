@@ -73,6 +73,7 @@ As a dev, I have communication and collaboration skills, being capable of workin
  ➻ <a href="https://pantaimaresias.com.br/">Pousada Pantai Maresias;</a></br>
  ➻ <a href="https://valedaslaranjeiras.com.br/">Condominio Vale das Laranjeiras;</a></br>
  ➻ <a href="https://cairescondominios.com.br/">Caires Condominios;</a></br>
+ ➻ <a href="https://sempreamigos.org.br/">Sempre Amigos;</a></br>
 
  <b>Projects with the <a href="https://ideapublicidade.com.br/">Idea Publicidade:</a></b>
  
