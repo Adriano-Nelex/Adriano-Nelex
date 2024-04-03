@@ -74,6 +74,7 @@ Como dev tenho habilidades em comunicação e colaboração, sendo capaz de trab
  ➻ <a href="https://pantaimaresias.com.br/">Pousada Pantai Maresias;</a></br>
  ➻ <a href="https://valedaslaranjeiras.com.br/">Condominio Vale das Laranjeiras;</a></br>
  ➻ <a href="https://cairescondominios.com.br/">Caires Condominios;</a></br>
+ ➻ <a href="https://sempreamigos.org.br/">Sempre Amigos;</a></br>
 
  <b>Projetos com a <a href="https://ideapublicidade.com.br/">Idea Publicidade:</a></b>
  
