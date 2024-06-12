@@ -81,7 +81,6 @@ Como dev tenho habilidades em comunicação e colaboração, sendo capaz de trab
  ➻ <a href="https://restaurantetaberna.com/">Restaurante Taberna:</a></br>
  ➻ <a href="https://bragion.com.br/">Supermercado IB Bragion;</a></br>
  ➻ <a href="https://www.tetrasupermercado.com.br/tetramaiseconomia/">Tetra Supermercado/Page APP;</a></br>
- ➻ <a href="https://play.google.com/store/apps/details?id=com.aaz.extrema&hl=pt_BR&gl=US">Aplicativo Extrema de AaZ:</a></br>
  
  <b>Projetos no Github:</b>
  
