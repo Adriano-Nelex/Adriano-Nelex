@@ -62,7 +62,6 @@ As a dev, I have communication and collaboration skills, being capable of workin
  ➻ <a href="https://cjfashion.com/">CJ Fashion;</a></br>
  ➻ <a href="https://editorial-realestate.jhsf.com.br/">JHSF Real Estate Editorial;</a></br>
  ➻ <a href="https://fkpartners.com">FK Partners;</a></br>
- ➻ <a href="https://pazedinheiro.com.br/">Paz e Dinheiro;</a></br>
  ➻ <a href="https://evansadvogados.com.br">Evans Advogados;</a></br>
 
  <b>Projects with the <a href="https://nork.com.br/">Nork:</a></b>
