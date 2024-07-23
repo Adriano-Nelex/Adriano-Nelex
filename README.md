@@ -14,7 +14,7 @@ Atualmente sou desenvolvedor Web especializado em Wordpress com experiência em 
 
 ➻ Bootstrap, SASS, GULP </br>
 ➻ PHP, Javascript, node.js/NPM </br>
-➻ Custom Posts, Post Types, Banco de dados Mysql, Taxonomias </br>
+➻ Custom Posts, Post Types, Banco de dados Mysql, Taxonomias</br>
 ➻ Oxygen Builder </br>
 ➻ Metodologias Ageis: Scrum, Kanban </br>
 
