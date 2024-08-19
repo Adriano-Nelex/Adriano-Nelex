@@ -16,8 +16,8 @@ Currently, I am a Web developer specializing in WordPress with experience in cre
 
 ➻ Bootstrap, SASS, GULP </br>
 ➻ PHP, Javascript, node.js/NPM </br>
-➻ Custom Posts, Post Types, Mysql Database, Taxonomies </br>
-➻ Oxygen Builder </br>
+➻ Wordpress - Custom Posts, Post Types, Mysql Database, Taxonomies </br>
+➻ Wordpress - Oxygen Builder </br>
 ➻ Agile Methodologies: Scrum, Kanban </br>
 
 I have extensive experience in website and application development, where I am able to customize them to meet the client's needs. I also have skills in working with dedicated and shared hosting servers, with a profound knowledge of server configurations and management, ensuring that websites and applications run quickly and reliably.
