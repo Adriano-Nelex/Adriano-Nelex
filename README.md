@@ -61,7 +61,6 @@ Como dev tenho habilidades em comunicação e colaboração, sendo capaz de trab
 
  ➻ <a href="https://fasanofifthavenue.com/">Fasano Restaurant New York;</a></br>
  ➻ <a href="https://jhsfid.com.br/">JHSF ID;</a></br>
- ➻ <a href="https://cjfashion.com/">CJ Fashion;</a></br>
  ➻ <a href="https://editorial-realestate.jhsf.com.br/">JHSF Real Estate Editorial;</a></br>
  ➻ <a href="https://fkpartners.com">FK Partners;</a></br>
  ➻ <a href="https://evansadvogados.com.br">Evans Advogados;</a></br>
