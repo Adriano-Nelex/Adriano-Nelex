@@ -79,6 +79,10 @@ As a dev, I have communication and collaboration skills, being capable of workin
  ➻ <a href="https://restaurantetaberna.com/">Restaurante Taberna:</a></br>
  ➻ <a href="https://bragion.com.br/">Supermercado IB Bragion;</a></br>
  ➻ <a href="https://www.tetrasupermercado.com.br/tetramaiseconomia/">Tetra Supermercado/Page APP;</a></br>
+
+ <b>Freelance</b>
+ 
+  ➻ <a href="https://onistoimoveis.com.br/">Onisto Imóvies;</a></br>
  
  <b>Projects on Github:</b>:
  
