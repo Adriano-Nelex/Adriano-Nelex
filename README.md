@@ -82,6 +82,7 @@ Como dev tenho habilidades em comunicação e colaboração, sendo capaz de trab
  ➻ <a href="https://www.tetrasupermercado.com.br/tetramaiseconomia/">Tetra Supermercado/Page APP;</a></br>
 
  <b>Freelance</b>
+ 
   ➻ <a href="https://onistoimoveis.com.br/">Onisto Imóvies;</a></br>
  
  <b>Projetos no Github:</b>
