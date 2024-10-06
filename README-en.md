@@ -58,6 +58,7 @@ As a dev, I have communication and collaboration skills, being capable of workin
 
  <b>Projects with the <a href="https://fasters.com.br/">Fasters:</a></b>
 
+ ➻ <a href="https://jhsfcapital.com.br/">JHSF Capital;</a></br>
  ➻ <a href="https://fasanofifthavenue.com/">Fasano Restaurant New York;</a></br>
  ➻ <a href="https://jhsfid.com.br/">JHSF ID;</a></br>
  ➻ <a href="https://editorial-realestate.jhsf.com.br/">JHSF Real Estate Editorial;</a></br>
