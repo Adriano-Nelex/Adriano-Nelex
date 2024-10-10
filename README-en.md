@@ -12,17 +12,11 @@
 <h1 align="center">Hello, Welcome!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
-Currently, I am a Web developer specializing in WordPress with experience in creating attractive and intuitive user interfaces for websites and web applications. I possess specialized skills and a deep knowledge of its tools and frameworks, such as:
+WordPress Developer | Creating Digital Experiences
 
-➻ Bootstrap, SASS, GULP </br>
-➻ PHP, Javascript, node.js/NPM </br>
-➻ Wordpress - Custom Posts, Post Types, Mysql Database, Taxonomies </br>
-➻ Wordpress - Oxygen Builder </br>
-➻ Agile Methodologies: Scrum, Kanban </br>
+Systems Analyst with 6 years of experience in web development, specializing in WordPress. I have solid expertise, having developed over 100 custom websites, focusing on performance and user experience (design). My passion for creating intuitive interfaces and memorable experiences drives me to seek innovative and effective solutions. With skills in WooCommerce, Elementor, Oxygen, PHP, and JavaScript, I deliver high-quality projects, optimized for SEO and high performance. I am proactive, organized, and constantly strive to improve my knowledge to deliver exceptional results.
 
-I have extensive experience in website and application development, where I am able to customize them to meet the client's needs. I also have skills in working with dedicated and shared hosting servers, with a profound knowledge of server configurations and management, ensuring that websites and applications run quickly and reliably.
-
-As a dev, I have communication and collaboration skills, being capable of working in teams, managing projects, and ensuring that website and application development is delivered within the specified timeframe and budget. I am always seeking new challenges and opportunities to enhance my skills and refine my development techniques.
+Challenging projects are great growth opportunities.
 
 <div align="center">
   </br>
