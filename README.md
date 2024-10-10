@@ -10,17 +10,11 @@
 <h1 align="center">Olá, Seja Bem-vindo(a)!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
-Atualmente sou desenvolvedor Web especializado em Wordpress com experiência em criar interfaces de usuário atraentes e intuitivas para websites e aplicações web. Possuo habilidades especializadas além de um profundo conhecimento em suas ferramentas e frameworks, como:
+Desenvolvedor WordPress | Criação de Experiências Digitais
 
-➻ Bootstrap, SASS, GULP </br>
-➻ PHP, Javascript, node.js/NPM </br>
-➻ Wordpress - Custom Posts, Post Types, Banco de dados Mysql, Taxonomias</br>
-➻ Wordpress - Oxygen Builder </br>
-➻ Metodologias Ageis: Scrum, Kanban </br>
+Analista de Sistemas com 6 anos de experiência em desenvolvimento web, especializado em WordPress. Possuo sólida expertise tendo desenvolvido +100 sites personalizados, com foco em Desempenho e Experiência de usuario (Design). Minha paixão por criar interfaces intuitivas e experiências memoráveis me impulsiona a buscar soluções inovadoras e eficazes. Com habilidades em WooCommerce, Elementor, Oxygen, PHP e JavaScript, entrego projetos de alta qualidade, otimizados para SEO e com alta performance. Sou proativo, organizado e busco constantemente aprimorar meus conhecimentos para entregar resultados excepcionais. 
 
-Tenho uma ampla experiência em desenvolvimento de sites e aplicações, onde sou capaz de personalizá-lo para atender às necessidades do cliente. Também possuo habilidades em trabalhar com servidores de hospedagem dedicadas e compartilhadas, com um conhecimento profundo de configurações e gerenciamento de servidores, garantindo que sites e aplicações funcionem de forma rápida e confiável.
-
-Como dev tenho habilidades em comunicação e colaboração, sendo capaz de trabalhar em equipe, gerenciar projetos e garantir que o desenvolvimento de sites e aplicações seja entregue dentro do prazo e do orçamento estipulado. Estou sempre buscando novos desafios e oportunidades para aprimorar minhas habilidades e aperfeiçoar minhas técnicas de desenvolvimento.
+Projetos desafiadores são otimas oportunidades de crescimento.
 
 <div align="center">
   </br>
