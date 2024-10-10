@@ -91,16 +91,12 @@ Challenging projects are great growth opportunities.
  ➻ Bootstrap Builder: https://www.upinside.com.br/certificados/5459264202211 </br>
  ➻ DevTools Essentials: https://www.upinside.com.br/certificados/5459261202111 </br>
  ➻ Productivity and Time Management: https://conqueronline.com.br/certificates/39c9551c-0830-4369-a871-50ff58c68984 </br>
- ➻ Course Onebitcode Full Stack Javascript (Studying):
-    <div align="center">  
-      <img align="center" alt="Adriano-Onebitcode-HTML5" height="auto" width="25%" src="https://user-images.githubusercontent.com/50491181/207620815-0b2f059c-0fd5-4c18-8a5c-bb5b89d50b6d.jpg" />
-      <img align="center" alt="Adriano-Onebitcode-CSS3" height="auto" width="25%" src="https://user-images.githubusercontent.com/50491181/207623192-05ae9640-b167-4887-9f2e-73c9f6dd1fa9.jpg" />
-    </div>
+ ➻ Course Onebitcode Full Stack Javascript (Studying)
  
 ## Some Links
   
 <div> 
-  <a href="https://www.instagram.com/adriano_.fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/adriano._fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-p-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:adriano.p.f@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
