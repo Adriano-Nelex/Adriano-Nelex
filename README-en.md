@@ -61,6 +61,8 @@ Challenging projects are great growth opportunities.
 
  <b>Projects with the <a href="https://nork.com.br/">Nork:</a></b>
 
+ ➻ <a href="https://contecomigoconsult.com.br/">Conte Comigo Consultoria e treinamento em hotelaria;</a></br>
+ ➻ <a href="https://grupoabrico.com.br/">Grupo Abricó;</a></br>
  ➻ <a href="https://semeq.com">Semeq;</a></br>
  ➻ <a href="https://pantaimaresias.com.br/">Pousada Pantai Maresias;</a></br>
  ➻ <a href="https://valedaslaranjeiras.com.br/">Condominio Vale das Laranjeiras;</a></br>
