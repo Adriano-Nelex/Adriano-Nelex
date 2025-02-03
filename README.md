@@ -84,7 +84,7 @@ Projetos desafiadores são ótimas oportunidades de crescimento.
  ➻ Projeto com foco em SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
  
 ## Certificações:
- ➻ Inglês Nivel B1: https://internationalenglishtest.com/verify-certificate/12CEB2512-12CEB2517-12CEAFCDD/ </br>
+ ➻ Inglês Nivel B1/B2: https://internationalenglishtest.com/verify-certificate/12CEB2512-12CEB2517-12CEAFCDD/ </br>
  ➻ Full Stack PHP: https://www.upinside.com.br/certificados/5459262202211 </br>
  ➻ CSS produtivo com Sass: https://www.upinside.com.br/certificados/5459269202111 </br>
  ➻ Bootstrap Builder: https://www.upinside.com.br/certificados/5459264202211 </br>
