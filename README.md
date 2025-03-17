@@ -12,7 +12,7 @@
 
 Desenvolvedor WordPress | Criação de Experiências Digitais
 
-Analista de Sistemas com 6 anos de experiência em desenvolvimento web, especializado em WordPress. Possuo sólida expertise tendo desenvolvido +100 sites personalizados, com foco em Desempenho e Experiência de usuario (Design). Minha paixão por criar interfaces intuitivas e experiências memoráveis me impulsiona a buscar soluções inovadoras e eficazes. Com habilidades em WooCommerce, Elementor, Oxygen, PHP e JavaScript, entrego projetos de alta qualidade, otimizados para SEO e com alta performance. Sou proativo, organizado e busco constantemente aprimorar meus conhecimentos para entregar resultados excepcionais. 
+Analista de Sistemas com 7 anos de experiência em desenvolvimento web, especializado em WordPress. Possuo sólida expertise tendo desenvolvido +100 sites personalizados, com foco em Desempenho e Experiência de usuario (Design). Minha paixão por criar interfaces intuitivas e experiências memoráveis me impulsiona a buscar soluções inovadoras e eficazes. Com habilidades em WooCommerce, Elementor, Oxygen, PHP e JavaScript, entrego projetos de alta qualidade, otimizados para SEO e com alta performance. Sou proativo, organizado e busco constantemente aprimorar meus conhecimentos para entregar resultados excepcionais. 
 
 Projetos desafiadores são ótimas oportunidades de crescimento.
 
