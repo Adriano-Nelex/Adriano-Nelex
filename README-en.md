@@ -14,7 +14,7 @@
 
 WordPress Developer | Creating Digital Experiences
 
-Systems Analyst with 6 years of experience in web development, specializing in WordPress. I have solid expertise, having developed over 100 custom websites, focusing on performance and user experience (design). My passion for creating intuitive interfaces and memorable experiences drives me to seek innovative and effective solutions. With skills in WooCommerce, Elementor, Oxygen, PHP, and JavaScript, I deliver high-quality projects, optimized for SEO and high performance. I am proactive, organized, and constantly strive to improve my knowledge to deliver exceptional results.
+Systems Analyst with 7 years of experience in web development, specializing in WordPress. I have solid expertise, having developed over 100 custom websites, focusing on performance and user experience (design). My passion for creating intuitive interfaces and memorable experiences drives me to seek innovative and effective solutions. With skills in WooCommerce, Elementor, Oxygen, PHP, and JavaScript, I deliver high-quality projects, optimized for SEO and high performance. I am proactive, organized, and constantly strive to improve my knowledge to deliver exceptional results.
 
 Challenging projects are great growth opportunities.
 
