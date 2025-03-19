@@ -56,7 +56,6 @@ Challenging projects are great growth opportunities.
  ➻ <a href="https://fasanofifthavenue.com/">Fasano Restaurant New York;</a></br>
  ➻ <a href="https://jhsfid.com.br/">JHSF ID;</a></br>
  ➻ <a href="https://editorial-realestate.jhsf.com.br/">JHSF Real Estate Editorial;</a></br>
- ➻ <a href="https://fkpartners.com">FK Partners;</a></br>
  ➻ <a href="https://evansadvogados.com.br">Evans Advogados;</a></br>
 
  <b>Projects with the <a href="https://nork.com.br/">Nork:</a></b>
