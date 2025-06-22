@@ -8,7 +8,6 @@
   </p>
 </div>
 
-
 <h1 align="center">Hello, Welcome!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
@@ -28,7 +27,7 @@ Challenging projects are great growth opportunities.
 </div>
 
 ## Skills
-  
+
 <div style="">  
   <img align="center" alt="Adriano-Wordpress" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" />
   <img align="center" alt="Adriano-Woocommerce" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original-wordmark.svg" />
@@ -50,48 +49,50 @@ Challenging projects are great growth opportunities.
   
 ## Projects/Portfolio:
 
- <b>Projects with the <a href="https://fasters.com.br/">Fasters:</a></b>
+<b>Projects with the <a href="https://fasters.com.br/">Fasters:</a></b>
 
- ➻ <a href="https://jhsfcapital.com.br/">JHSF Capital;</a></br>
- ➻ <a href="https://fasanofifthavenue.com/">Fasano Restaurant New York;</a></br>
- ➻ <a href="https://jhsfid.com.br/">JHSF ID;</a></br>
- ➻ <a href="https://editorial-realestate.jhsf.com.br/">JHSF Real Estate Editorial;</a></br>
- ➻ <a href="https://evansadvogados.com.br">Evans Advogados;</a></br>
+➻ <a href="https://jhsfcapital.com.br/">JHSF Capital;</a></br>
+➻ <a href="https://fasanofifthavenue.com/">Fasano Restaurant New York;</a></br>
+➻ <a href="https://jhsfid.com.br/">JHSF ID;</a></br>
+➻ <a href="https://editorial-realestate.jhsf.com.br/">JHSF Real Estate Editorial;</a></br>
+➻ <a href="https://evansadvogados.com.br">Evans Advogados;</a></br>
 
- <b>Projects with the <a href="https://nork.com.br/">Nork:</a></b>
+<b>Projects with the <a href="https://nork.com.br/">Nork:</a></b>
 
- ➻ <a href="https://contecomigoconsult.com.br/">Conte Comigo Consultoria e treinamento em hotelaria;</a></br>
- ➻ <a href="https://grupoabrico.com.br/">Grupo Abricó;</a></br>
- ➻ <a href="https://semeq.com">Semeq;</a></br>
- ➻ <a href="https://pantaimaresias.com.br/">Pousada Pantai Maresias;</a></br>
- ➻ <a href="https://valedaslaranjeiras.com.br/">Condominio Vale das Laranjeiras;</a></br>
- ➻ <a href="https://cairescondominios.com.br/">Caires Condominios;</a></br>
- ➻ <a href="https://sempreamigos.org.br/">Sempre Amigos;</a></br>
+➻ <a href="https://contecomigoconsult.com.br/">Conte Comigo Consultoria e treinamento em hotelaria;</a></br>
+➻ <a href="https://grupoabrico.com.br/">Grupo Abricó;</a></br>
+➻ <a href="https://semeq.com">Semeq;</a></br>
+➻ <a href="https://pantaimaresias.com.br/">Pousada Pantai Maresias;</a></br>
+➻ <a href="https://valedaslaranjeiras.com.br/">Condominio Vale das Laranjeiras;</a></br>
+➻ <a href="https://cairescondominios.com.br/">Caires Condominios;</a></br>
+➻ <a href="https://sempreamigos.org.br/">Sempre Amigos;</a></br>
 
- <b>Projects with the <a href="https://ideapublicidade.com.br/">Idea Publicidade:</a></b>
- 
- ➻ <a href="https://comercialcasadoacougueiro.com/">Comercial Casa do açougueiro;</a></br>
- ➻ <a href="https://fujimultimarcas.com.br/">Fuji Multimarcas;</a></br>
- ➻ <a href="https://restaurantetaberna.com/">Restaurante Taberna:</a></br>
- ➻ <a href="https://bragion.com.br/">Supermercado IB Bragion;</a></br>
- ➻ <a href="https://www.tetrasupermercado.com.br/tetramaiseconomia/">Tetra Supermercado/Page APP;</a></br>
- 
- <b>Projects on Github:</b>:
- 
- ➻ Landing Page (HTML, CSS e Javascript): https://adriano-nelex.github.io/landing-page/ </br>
- ➻ Project focused on SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
- 
+<b>Projects with the <a href="https://ideapublicidade.com.br/">Idea Publicidade:</a></b>
+
+➻ <a href="https://comercialcasadoacougueiro.com/">Comercial Casa do açougueiro;</a></br>
+➻ <a href="https://fujimultimarcas.com.br/">Fuji Multimarcas;</a></br>
+➻ <a href="https://restaurantetaberna.com/">Restaurante Taberna:</a></br>
+➻ <a href="https://bragion.com.br/">Supermercado IB Bragion;</a></br>
+
+ <!-- ➻ <a href="https://www.tetrasupermercado.com.br/tetramaiseconomia/">Tetra Supermercado/Page APP;</a></br> -->
+
+<b>Projects on Github:</b>:
+
+➻ Landing Page (HTML, CSS e Javascript): https://adriano-nelex.github.io/landing-page/ </br>
+➻ Project focused on SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
+
 ## Certifications:
- ➻ English level B1/B2: https://internationalenglishtest.com/verify-certificate/12CEB2512-12CEB2517-12CEAFCDD/ </br>
- ➻ Full Stack PHP: https://www.upinside.com.br/certificados/5459262202211 </br>
- ➻ Productive CSS with Sass: https://www.upinside.com.br/certificados/5459269202111 </br>
- ➻ Bootstrap Builder: https://www.upinside.com.br/certificados/5459264202211 </br>
- ➻ DevTools Essentials: https://www.upinside.com.br/certificados/5459261202111 </br>
- ➻ Productivity and Time Management: https://conqueronline.com.br/certificates/39c9551c-0830-4369-a871-50ff58c68984 </br>
- ➻ Course Onebitcode Full Stack Javascript (Studying)
- 
+
+➻ English level B1/B2: https://internationalenglishtest.com/verify-certificate/12CEB2512-12CEB2517-12CEAFCDD/ </br>
+➻ Full Stack PHP: https://www.upinside.com.br/certificados/5459262202211 </br>
+➻ Productive CSS with Sass: https://www.upinside.com.br/certificados/5459269202111 </br>
+➻ Bootstrap Builder: https://www.upinside.com.br/certificados/5459264202211 </br>
+➻ DevTools Essentials: https://www.upinside.com.br/certificados/5459261202111 </br>
+➻ Productivity and Time Management: https://conqueronline.com.br/certificates/39c9551c-0830-4369-a871-50ff58c68984 </br>
+➻ Course Onebitcode Full Stack Javascript (Studying)
+
 ## Some Links
-  
+
 <div> 
   <a href="https://www.instagram.com/adriano._fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-p-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
