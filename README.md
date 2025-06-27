@@ -7,12 +7,9 @@
     <a href="README.md"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/brazil.png" alt="Português"></a>
   </p>
 </div>
-<h1 align="center">Olá, Seja Bem-vindo(a)!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
-Desenvolvedor WordPress | Criação de Experiências Digitais
-
-Analista de Sistemas com 7 anos de experiência em desenvolvimento web, especializado em WordPress. Possuo sólida expertise tendo desenvolvido +100 sites personalizados, com foco em Desempenho e Experiência de usuario (Design). Minha paixão por criar interfaces intuitivas e experiências memoráveis me impulsiona a buscar soluções inovadoras e eficazes. Com habilidades em WooCommerce, Elementor, Oxygen, PHP e JavaScript, entrego projetos de alta qualidade, otimizados para SEO e com alta performance. Sou proativo, organizado e busco constantemente aprimorar meus conhecimentos para entregar resultados excepcionais.
+Sou um Desenvolvedor WordPress e Full Stack com mais de 7 anos de experiência, especializado em criar sites otimizados para performance e SEO. Trabalho com temas personalizados (Elementor, Oxygen), WooCommerce e integrações de APIs REST. Meu foco é entregar soluções escaláveis que impulsionam resultados de negócio.
 
 Projetos desafiadores são ótimas oportunidades de crescimento.
 
