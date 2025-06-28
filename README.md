@@ -26,19 +26,10 @@ Projetos desafiadores são ótimas oportunidades de crescimento.
 
 ## Skills
 
-<div style="">  
-  <img align="center" alt="Adriano-Wordpress" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" />
-  <img align="center" alt="Adriano-Woocommerce" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original-wordmark.svg" />
-  <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Adriano-PHP" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Adriano-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Adriano-Saas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Adriano-Grunt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg">
-  <img align="center" alt="Adriano-Gulp" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
+<div style="">
+  <img src="https://skillicons.dev/icons?i=wordpress,js,jquery,php,bootstrap,sass,gulp,nodejs,npm,figma,ps,xd&theme=dark" />
 </div>
-  
+
 ## Detalhes
   ➻ 🔭 Atualmente trabalho na Fasters. </br>
   ➻ 🌱 Estou me aprofundando em PHP e Javascript. </br>
