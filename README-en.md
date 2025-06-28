@@ -84,5 +84,6 @@ I am a WordPress and Full Stack Developer with over 7 years of experience, speci
   <a href="https://www.linkedin.com/in/adriano-p-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:adriano.p.f@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
+Connect with me on LinkedIn or visit https://adrianowebdeveloper.com/
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" />
