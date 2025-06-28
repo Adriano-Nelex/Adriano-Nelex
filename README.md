@@ -11,8 +11,6 @@
 
 Sou um Desenvolvedor WordPress e Full Stack com mais de 7 anos de experiência, especializado em criar sites otimizados para performance e SEO. Trabalho com temas personalizados (Elementor, Oxygen), WooCommerce e integrações de APIs REST. Meu foco é entregar soluções escaláveis que impulsionam resultados de negócio.
 
-Projetos desafiadores são ótimas oportunidades de crescimento.
-
 <div align="center">
   </br>
 
