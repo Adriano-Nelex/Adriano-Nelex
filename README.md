@@ -30,7 +30,7 @@ Sou um Desenvolvedor WordPress e Full Stack com mais de 7 anos de experiência, 
 
 ## Detalhes
   ➻ 🔭 Atualmente trabalho na Fasters. </br>
-  ➻ 🌱 Estou me aprofundando em PHP e Javascript. </br>
+  ➻ 🌱 Novos desafios: estudando Strapi, Node js, React e Next.js. </br>
   ➻ 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento. </br>
   ➻ 😄 Curso de Fullstack Javascript (Estudando). </br>
    
@@ -83,8 +83,9 @@ Sou um Desenvolvedor WordPress e Full Stack com mais de 7 anos de experiência, 
 <div> 
   <a href="https://www.instagram.com/adriano._fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-p-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:adriano.p.f@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  
+  <a href="mailto:adriano.p.f@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
 </div>
+
+Conecte-se comigo no LinkedIn ou visite https://adrianowebdeveloper.com/
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" />
