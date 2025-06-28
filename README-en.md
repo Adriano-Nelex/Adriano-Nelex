@@ -12,8 +12,6 @@
 
 I am a WordPress and Full Stack Developer with over 7 years of experience, specializing in creating websites optimized for performance and SEO. I work with custom themes (Elementor, Oxygen), WooCommerce, and REST API integrations. My focus is delivering scalable solutions that drive business results.
 
-Challenging projects are great growth opportunities.
-
 <div align="center">
   </br>
     
@@ -31,7 +29,7 @@ Challenging projects are great growth opportunities.
   
 ## Details
   ➻ 🔭 I currently work at Fasters. </br>
-  ➻ 🌱 I'm getting deeper into PHP and Javascript. </br>
+  ➻ 🌱 New challenges: studying Strapi, Node.js, React, and Next.js. </br>
   ➻ 🤗 I like to experience new learning and collaborate with knowledge sharing. </br>
   ➻ 😄 Fullstack Javascript Course (Studying).
   
@@ -85,8 +83,6 @@ Challenging projects are great growth opportunities.
   <a href="https://www.instagram.com/adriano._fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-p-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:adriano.p.f@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  
-  
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" />
