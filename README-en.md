@@ -8,12 +8,9 @@
   </p>
 </div>
 
-<h1 align="center">Hello, Welcome!</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
-WordPress Developer | Creating Digital Experiences
-
-Systems Analyst with 7 years of experience in web development, specializing in WordPress. I have solid expertise, having developed over 100 custom websites, focusing on performance and user experience (design). My passion for creating intuitive interfaces and memorable experiences drives me to seek innovative and effective solutions. With skills in WooCommerce, Elementor, Oxygen, PHP, and JavaScript, I deliver high-quality projects, optimized for SEO and high performance. I am proactive, organized, and constantly strive to improve my knowledge to deliver exceptional results.
+I am a WordPress and Full Stack Developer with over 7 years of experience, specializing in creating websites optimized for performance and SEO. I work with custom themes (Elementor, Oxygen), WooCommerce, and REST API integrations. My focus is delivering scalable solutions that drive business results.
 
 Challenging projects are great growth opportunities.
 
@@ -28,17 +25,8 @@ Challenging projects are great growth opportunities.
 
 ## Skills
 
-<div style="">  
-  <img align="center" alt="Adriano-Wordpress" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/174/174881.png" />
-  <img align="center" alt="Adriano-Woocommerce" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original-wordmark.svg" />
-  <img align="center" alt="Adriano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Adriano-PHP" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Adriano-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Adriano-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Adriano-Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Adriano-Saas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Adriano-Grunt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg">
-  <img align="center" alt="Adriano-Gulp" height="70" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
+<div style="">
+  <img src="https://skillicons.dev/icons?i=wordpress,js,jquery,php,bootstrap,sass,gulp,nodejs,npm,figma,ps,xd&theme=dark" />
 </div>
   
 ## Details
