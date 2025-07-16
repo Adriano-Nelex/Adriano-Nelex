@@ -37,6 +37,7 @@ I am a WordPress and Full Stack Developer with over 7 years of experience, speci
 
 <b>Projects with the <a href="https://fasters.com.br/">Fasters:</a></b>
 
+➻ <a href="https://laspiedrasfasano.com/">Las Piedras Fasano;</a></br>
 ➻ <a href="https://jhsfcapital.com.br/">JHSF Capital;</a></br>
 ➻ <a href="https://fasanofifthavenue.com/">Fasano Restaurant New York;</a></br>
 ➻ <a href="https://jhsfid.com.br/">JHSF ID;</a></br>
