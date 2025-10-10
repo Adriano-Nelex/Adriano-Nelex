@@ -58,7 +58,6 @@ Sou um Desenvolvedor WordPress e Full Stack com mais de 7 anos de experiência, 
 <b>Projetos com a <a href="https://ideapublicidade.com.br/">Idea Publicidade:</a></b>
 
 ➻ <a href="https://comercialcasadoacougueiro.com/">Comercial Casa do açougueiro;</a></br>
-➻ <a href="https://fujimultimarcas.com.br/">Fuji Multimarcas;</a></br>
 ➻ <a href="https://restaurantetaberna.com/">Restaurante Taberna:</a></br>
 ➻ <a href="https://bragion.com.br/">Supermercado IB Bragion;</a></br>
 
