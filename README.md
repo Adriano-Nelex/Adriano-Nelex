@@ -18,14 +18,9 @@
 
 # Adriano Fernandes
 
-**Tech Lead & Web Developer** com +8 anos de experiência,
-atuando na interseção entre desenvolvimento web moderno,
-automação de processos e IA aplicada no dia a dia.
+**Tech Lead & Web Developer** com +8 anos de experiência, atuando na interseção entre desenvolvimento web moderno, automação de processos e IA aplicada no dia a dia.
 
-Trabalho com desenvolvimento de sites e aplicações de alta
-performance — do CMS tradicional à arquitetura headless moderna
-— e construo automações inteligentes com N8N que conectam
-sistemas e eliminam trabalho manual.
+Trabalho com desenvolvimento de sites e aplicações de alta performance do CMS tradicional à arquitetura headless moderna e construo automações inteligentes com N8N que conectam sistemas e eliminam trabalho manual.
 
 ---
 
@@ -34,42 +29,32 @@ sistemas e eliminam trabalho manual.
 **Web Development**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=wordpress,php,react,nextjs,typescript,tailwind,strapi,js,nodejs,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php,react,nextjs,typescript,tailwind,js,nodejs,git&theme=dark" />
 </div>
 
 **Automação & IA**
 
 <div>
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
-  N8N · Claude · ChatGPT · Gemini · Codex · MCP
+  Docker . N8N · Claude · ChatGPT · Gemini · Codex · MCP
 </div>
 
 **Infraestrutura**
 
-Docker · Self-hosting · Hospedagem dedicada · 
-Configuração de servidores e domínios
+Docker · Self-hosting · Hospedagem dedicada · Configuração de servidores web e domínios
 
 ---
 
 ## 🚀 O Que Faço no Dia a Dia
 
-➻ 💻 **Web Developer & Tech Lead** na Fasters —
-desenvolvimento de sites e aplicações com stack moderno,
-com foco em qualidade, performance e SEO técnico
+➻ 💻 **Web Developer & Tech Lead** na Fasters: Desenvolvimento de sites e aplicações com stack moderno, com foco em qualidade, performance e SEO técnico
 
-➻ 🌐 **Alocado em projetos da JHSF** — um dos maiores
-grupos do setor imobiliário premium do Brasil
+➻ 🌐 **Alocado em projetos da JHSF**: um dos maiores grupos do setor imobiliário premium do Brasil
 
-➻ ⚙️ **Automação com N8N** — construção de fluxos que
-integram sistemas como Salesforce, RD Station, Trello,
-Slack e APIs externas
+➻ ⚙️ **Automação com N8N**: construção de fluxos que integram sistemas como Salesforce, RD Station, Trello, Slack e APIs externas
 
-➻ 🤖 **IA no desenvolvimento** — uso diário de Claude,
-ChatGPT, Gemini e MCP para acelerar entregas e resolver
-problemas complexos
+➻ 🤖 **IA no desenvolvimento**: uso diário de Claude, ChatGPT, Gemini e MCP para acelerar entregas e resolver problemas complexos
 
-➻ 🌱 **Evoluindo em:** React · Next.js · TypeScript ·
-Arquitetura headless com Strapi
+➻ 🌱 **Evoluindo em:** React · Next.js · TypeScript · Arquitetura headless com Strapi
 
 ---
 
@@ -111,7 +96,6 @@ Arquitetura headless com Strapi
 
 **Projetos com a [Idea Publicidade](https://ideapublicidade.com.br/):**
 
-➻ [Comercial Casa do Açougueiro](https://comercialcasadoacougueiro.com/)</br>
 ➻ [Restaurante Taberna](https://restaurantetaberna.com/)</br>
 ➻ [Supermercado IB Bragion](https://bragion.com.br/)</br>
 
