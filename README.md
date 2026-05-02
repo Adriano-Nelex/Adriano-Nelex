@@ -1,18 +1,81 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:4f46e5&height=120&section=header" />
 
 <div align="center">
   <p>
-    <a href="README-en.md"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/united-states.png" alt="English"></a>
+    <a href="README-en.md">
+      <img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/united-states.png" alt="English">
+    </a>
     <img height="30em" src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/horizontal.png" alt="linha">
-    <a href="README.md"><img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/brazil.png" alt="Português"></a>
+    <a href="README.md">
+      <img src="https://github.com/Adriano-Nelex/Adriano-Nelex/blob/main/flags/brazil.png" alt="Português">
+    </a>
   </p>
 </div>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Adriano-Nelex" /></p>
 
-Sou um Desenvolvedor WordPress e Full Stack com mais de 7 anos de experiência, especializado em criar sites otimizados para performance e SEO. Trabalho com temas personalizados (Elementor, Oxygen), WooCommerce e integrações de APIs REST. Meu foco é entregar soluções escaláveis que impulsionam resultados de negócio.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Adriano-Nelex&color=7c3aed" />
+</p>
+
+# Adriano Fernandes
+
+**Tech Lead & Web Developer** com +8 anos de experiência,
+atuando na interseção entre desenvolvimento web moderno,
+automação de processos e IA aplicada no dia a dia.
+
+Trabalho com desenvolvimento de sites e aplicações de alta
+performance — do CMS tradicional à arquitetura headless moderna
+— e construo automações inteligentes com N8N que conectam
+sistemas e eliminam trabalho manual.
+
+---
+
+## 🛠️ Stack & Ferramentas
+
+**Web Development**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=wordpress,php,react,nextjs,typescript,tailwind,strapi,js,nodejs,git&theme=dark" />
+</div>
+
+**Automação & IA**
+
+<div>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  N8N · Claude · ChatGPT · Gemini · Codex · MCP
+</div>
+
+**Infraestrutura**
+
+Docker · Self-hosting · Hospedagem dedicada · 
+Configuração de servidores e domínios
+
+---
+
+## 🚀 O Que Faço no Dia a Dia
+
+➻ 💻 **Web Developer & Tech Lead** na Fasters —
+desenvolvimento de sites e aplicações com stack moderno,
+com foco em qualidade, performance e SEO técnico
+
+➻ 🌐 **Alocado em projetos da JHSF** — um dos maiores
+grupos do setor imobiliário premium do Brasil
+
+➻ ⚙️ **Automação com N8N** — construção de fluxos que
+integram sistemas como Salesforce, RD Station, Trello,
+Slack e APIs externas
+
+➻ 🤖 **IA no desenvolvimento** — uso diário de Claude,
+ChatGPT, Gemini e MCP para acelerar entregas e resolver
+problemas complexos
+
+➻ 🌱 **Evoluindo em:** React · Next.js · TypeScript ·
+Arquitetura headless com Strapi
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  </br>
 
 [![](https://raw.githubusercontent.com/Adriano-Nelex/AdrianoNelex/master/profile-summary-card-output/dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Adriano-Nelex/AdrianoNelex/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -22,71 +85,65 @@ Sou um Desenvolvedor WordPress e Full Stack com mais de 7 anos de experiência, 
 
 </div>
 
-## Skills
+---
 
-<div style="">
-  <img src="https://skillicons.dev/icons?i=wordpress,js,jquery,php,bootstrap,sass,gulp,nodejs,npm,figma,ps,xd&theme=dark" />
+## 🗂️ Projetos & Portfólio
+
+**Projetos com a [Fasters](https://fasters.com.br/) — JHSF:**
+
+➻ [JHSF Las Piedras Fasano](https://laspiedrasfasano.com/)</br>
+➻ [JHSF Capital](https://jhsfcapital.com.br/)</br>
+➻ [JHSF Fasano Restaurant New York](https://fasanofifthavenue.com/)</br>
+➻ [JHSF ID](https://jhsfid.com.br/)</br>
+➻ [JHSF Real Estate Editorial](https://editorial-realestate.jhsf.com.br/)</br>
+➻ [JHSF Boa Vista Surf Lodge](https://boavistasurflodge.com.br/)</br>
+➻ [Evans Advogados](https://evansadvogados.com.br)</br>
+
+**Projetos com a [Nork](https://nork.com.br/):**
+
+➻ [Conte Comigo Consultoria](https://contecomigoconsult.com.br/)</br>
+➻ [Grupo Abricó](https://grupoabrico.com.br/)</br>
+➻ [Semeq](https://semeq.com)</br>
+➻ [Pousada Pantai Maresias](https://pantaimaresias.com.br/)</br>
+➻ [Condomínio Vale das Laranjeiras](https://valedaslaranjeiras.com.br/)</br>
+➻ [Caires Condomínios](https://cairescondominios.com.br/)</br>
+➻ [Sempre Amigos](https://sempreamigos.org.br/)</br>
+
+**Projetos com a [Idea Publicidade](https://ideapublicidade.com.br/):**
+
+➻ [Comercial Casa do Açougueiro](https://comercialcasadoacougueiro.com/)</br>
+➻ [Restaurante Taberna](https://restaurantetaberna.com/)</br>
+➻ [Supermercado IB Bragion](https://bragion.com.br/)</br>
+
+---
+
+## 📜 Certificações
+
+➻ Inglês B1/B2 — [International English Test](https://internationalenglishtest.com/verify-certificate/12CEB2512-12CEB2517-12CEAFCDD/)</br>
+➻ Automação com N8N — Bootcamp Santander/DIO</br>
+➻ Automação com N8N — Hashtag Treinamentos</br>
+➻ Full Stack PHP — [Upinside](https://www.upinside.com.br/certificados/5459262202211)</br>
+➻ CSS produtivo com Sass — [Upinside](https://www.upinside.com.br/certificados/5459269202111)</br>
+➻ Bootstrap Builder — [Upinside](https://www.upinside.com.br/certificados/5459264202211)</br>
+➻ DevTools Essentials — [Upinside](https://www.upinside.com.br/certificados/5459261202111)</br>
+
+---
+
+## 🔗 Conecte-se
+
+<div>
+  <a href="https://www.linkedin.com/in/adriano-p-fernandes/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/adriano._fernandes" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:adriano.p.f@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+  <a href="https://adrianowebdeveloper.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
 </div>
 
-## Detalhes
-  ➻ 🔭 Atualmente trabalho na Fasters. </br>
-  ➻ 🌱 Novos desafios: estudando Strapi, Node js, React e Next.js. </br>
-  ➻ 🤗 Gosto de vivenciar novos aprendizados e colaborar com compartilhamento de conhecimento. </br>
-  ➻ 😄 Curso de Fullstack Javascript (Estudando). </br>
-   
-## Alguns Projetos/Portfolio:
-
-<b>Projetos com a <a href="https://fasters.com.br/">Fasters:</a></b>
-
-➻ <a href="https://laspiedrasfasano.com/">JHSF Las Piedras Fasano;</a></br>
-➻ <a href="https://jhsfcapital.com.br/">JHSF Capital;</a></br>
-➻ <a href="https://fasanofifthavenue.com/">JHSF Fasano Restaurant New York;</a></br>
-➻ <a href="https://jhsfid.com.br/">JHSF ID;</a></br>
-➻ <a href="https://editorial-realestate.jhsf.com.br/">JHSF Real Estate Editorial;</a></br>
-➻ <a href="https://boavistasurflodge.com.br/">JHSF Boa Vista Surf Lodge;</a></br>
-➻ <a href="https://evansadvogados.com.br">Evans Advogados;</a></br>
-
-<b>Projetos com a <a href="https://nork.com.br/">Nork:</a></b>
-
-➻ <a href="https://contecomigoconsult.com.br/">Conte Comigo Consultoria e treinamento em hotelaria;</a></br>
-➻ <a href="https://grupoabrico.com.br/">Grupo Abricó;</a></br>
-➻ <a href="https://semeq.com">Semeq;</a></br>
-➻ <a href="https://pantaimaresias.com.br/">Pousada Pantai Maresias;</a></br>
-➻ <a href="https://valedaslaranjeiras.com.br/">Condominio Vale das Laranjeiras;</a></br>
-➻ <a href="https://cairescondominios.com.br/">Caires Condominios;</a></br>
-➻ <a href="https://sempreamigos.org.br/">Sempre Amigos;</a></br>
-
-<b>Projetos com a <a href="https://ideapublicidade.com.br/">Idea Publicidade:</a></b>
-
-➻ <a href="https://comercialcasadoacougueiro.com/">Comercial Casa do açougueiro;</a></br>
-➻ <a href="https://restaurantetaberna.com/">Restaurante Taberna:</a></br>
-➻ <a href="https://bragion.com.br/">Supermercado IB Bragion;</a></br>
-
- <!-- ➻ <a href="https://www.tetrasupermercado.com.br/tetramaiseconomia/">Tetra Supermercado/Page APP;</a></br> -->
-
-<b>Projetos no Github:</b>
-
-➻ Landing Page (HTML, CSS e Javascript): https://adriano-nelex.github.io/landing-page/ </br>
-➻ Projeto com foco em SASS: https://adriano-nelex.github.io/contador_ano_novo/ </br>
-
-## Certificações:
-
-➻ Inglês Nivel B1/B2: https://internationalenglishtest.com/verify-certificate/12CEB2512-12CEB2517-12CEAFCDD/ </br>
-➻ Full Stack PHP: https://www.upinside.com.br/certificados/5459262202211 </br>
-➻ CSS produtivo com Sass: https://www.upinside.com.br/certificados/5459269202111 </br>
-➻ Bootstrap Builder: https://www.upinside.com.br/certificados/5459264202211 </br>
-➻ DevTools Essentials: https://www.upinside.com.br/certificados/5459261202111 </br>
-➻ Produtividade e Gestão de Tempo: https://conqueronline.com.br/certificates/39c9551c-0830-4369-a871-50ff58c68984 </br>
-➻ Cursos Onebitcode Full Stack Javascript (andamento)
-
-## Alguns Links
-
-<div> 
-  <a href="https://www.instagram.com/adriano._fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adriano-p-fernandes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:adriano.p.f@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>  
-</div>
-
-Conecte-se comigo no LinkedIn ou visite https://adrianowebdeveloper.com/
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:7c3aed&height=120&section=footer" />
