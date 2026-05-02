@@ -27,21 +27,23 @@ Trabalho com desenvolvimento de sites e aplicações de alta performance do CMS 
 ## 🛠️ Stack & Ferramentas
 
 **Web Development**
-
 <div>
   <img src="https://skillicons.dev/icons?i=wordpress,php,react,nextjs,typescript,tailwind,js,nodejs,git&theme=dark" />
 </div>
 
-**Automação & IA**
+---
 
+**Automação & IA**
 <div>
   Docker . N8N · Claude · ChatGPT · Gemini · Codex · MCP
-  
 </div>
 
-**Infraestrutura**
+---
 
-Docker · Self-hosting · Hospedagem dedicada · Configuração de servidores web e domínios
+**Infraestrutura**
+<div>
+  Docker · Self-hosting · Hospedagem dedicada · Configuração de servidores web e domínios
+</div>
 
 ---
 
