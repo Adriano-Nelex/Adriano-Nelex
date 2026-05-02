@@ -36,6 +36,7 @@ Trabalho com desenvolvimento de sites e aplicações de alta performance do CMS 
 
 <div>
   Docker . N8N · Claude · ChatGPT · Gemini · Codex · MCP
+  
 </div>
 
 **Infraestrutura**
