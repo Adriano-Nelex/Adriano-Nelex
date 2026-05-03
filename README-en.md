@@ -55,18 +55,18 @@ eliminate manual work.
 
 ## 🚀 Day-to-Day Work
 
-➻ 💻 **Web Developer & Tech Lead** at Fasters — building
+➻ 💻 **Web Developer & Tech Lead**: at Fasters building
 websites and applications with a modern stack, focused on
 quality, performance, and technical SEO
 
-➻ 🌐 **Allocated to JHSF projects** — one of Brazil's
+➻ 🌐 **Allocated to JHSF projects**: one of Brazil's
 largest premium real estate groups
 
-➻ ⚙️ **Process Automation with N8N** — building workflows
+➻ ⚙️ **Process Automation with N8N**: building workflows
 that integrate systems like Salesforce, RD Station, Trello,
 Slack, and external APIs
 
-➻ 🤖 **AI in development** — daily use of Claude, ChatGPT,
+➻ 🤖 **AI in development**: daily use of Claude, ChatGPT,
 Gemini and MCP to speed up deliveries and solve complex
 problems
 
